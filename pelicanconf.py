@@ -32,6 +32,6 @@ DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
-THEME = 'simple-jcm'
+THEME = 'simple-jcm-1.0'  
 
-OUTPUT_PATH = 'docs'
+OUTPUT_PATH = 'docs'  
