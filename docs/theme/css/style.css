@@ -46,10 +46,10 @@ h6 a { color: inherit !important }
     display: inline list-item;
 } */
 
-#post-list {
+/* #post-list {
     margin-bottom: 1em;
     margin-top: 1em;
-}
+} */
 
 pre {
     margin: 2em 1em 2em 4em;
