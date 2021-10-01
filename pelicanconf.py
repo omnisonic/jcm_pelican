@@ -35,3 +35,5 @@ DEFAULT_PAGINATION = 10
 THEME = 'simple-jcm-1.0'  
 
 OUTPUT_PATH = 'docs'  
+
+# STATIC_PATHS = ['static']
