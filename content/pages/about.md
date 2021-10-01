@@ -1,3 +1,3 @@
 Title: About 
 
-I perform, compose, arrange, and teach guitar music. test
+I perform, compose, arrange, and teach guitar music.
