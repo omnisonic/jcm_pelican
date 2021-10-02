@@ -37,3 +37,5 @@ THEME = 'simple-jcm-1.0'
 OUTPUT_PATH = 'docs'  
 
 # STATIC_PATHS = ['static']
+
+DISQUS_SITENAME = 'johnclarkemusic-com'
