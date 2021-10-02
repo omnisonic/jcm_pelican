@@ -38,4 +38,4 @@ OUTPUT_PATH = 'docs'
 
 # STATIC_PATHS = ['static']
 
-DISQUS_SITENAME = 'johnclarkemusic-com'
+DISQUS_SITENAME = 'johnclarkemusic'
