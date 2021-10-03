@@ -1,6 +1,6 @@
-Title: Single Release: Seven Stones
+Title: Song Release: Seven Stones
 Date: 2020-10-17
-Category: Single
+Category: Songs
 Tags: Music
 
 An original guitar composition in the odd meter of 7.
