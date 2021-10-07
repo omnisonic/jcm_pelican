@@ -34,7 +34,7 @@ DEFAULT_PAGINATION = 10
 #RELATIVE_URLS = True
 THEME = 'simple-jcm-1.0'  
 
-OUTPUT_PATH = 'docs'  
+OUTPUT_PATH = 'docs'
 
 # STATIC_PATHS = ['static']
 
