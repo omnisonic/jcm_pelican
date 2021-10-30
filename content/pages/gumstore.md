@@ -1,4 +1,9 @@
-Title: Store
+Title: Store Page
+
+***
+
+## Albums and Singles
+
 Music Track Single: Seven Stones <a  href="https://gum.co/PzSUc?">Buy</a>
 
 Music Track Single: Life Ahead <a  href="https://gum.co/niJXT">Buy</a>
@@ -9,19 +14,21 @@ String and Wood - Full Album Download <a  href="https://gum.co/eYOnN">Buy</a>
 
 John Clarke Trio - Full Album <a  href="https://gum.co/vhBqx">Buy</a>
 
-The Most Evolved - Original Youtube Video - Download <a  href="https://gum.co/tme-vid">Buy</a>
-
 Waterfront - compact disc <a  href="https://gum.co/waterfront-cd">Buy</a>
 
-Aurora Borealis Backing Track <a  href="https://gum.co/FUfzb">Buy</a>
+Waterfront - Official Album 2016 - Download <a  href="https://gum.co/waterfront">Buy</a>
+
+***
+
+# Notation
+
+J. H. Clarke - Original Songbook - guitar notation <a  href="https://gum.co/ABqtxe">Buy</a>
+
+The Most Evolved - guitar notation <a  href="https://gum.co/the-most-evolved-tabs">Buy</a>
+
+Fuerte - guitar notation <a  href="https://gum.co/fuerte-tab">Buy</a>
 
 Seven Stones - Guitar Notation <a  href="https://gum.co/7stones">Buy</a>
-
-Private Skype/Webcam Guitar Lessons <a  href="https://gum.co/DbOtK">Buy</a>
-
-Master Class - Individualized Coaching <a  href="https://gum.co/kxgxy">Buy</a>
-
-Full Membership to JohnClarkeGuitarLessons.com <a  href="https://gum.co/UxZqV">Buy</a>
 
 O' Carolan's Concerto - guitar notation <a  href="https://gum.co/ocarolan-tab">Buy</a>
 
@@ -63,31 +70,45 @@ Aurora Borealis - guitar notation <a  href="https://gum.co/aurora-tab">Buy</a>
 
 To Live - guitar notation <a  href="https://gum.co/to-live-tab">Buy</a>
 
-Get Updates - Get Free Music - $0 <a  href="https://gum.co/freemp3">Buy</a>
+***
 
-Week 2 - Spanish / Classical Guitar for beginners <a  href="https://gum.co/sEEc">Buy</a>
+# Backing Tracks
 
-6-19-19 Simple Compostion in E major with in video notation <a  href="https://gum.co/bVsR">Buy</a>
+Aurora Borealis - Backing Track <a  href="https://gum.co/FUfzb">Buy</a>
 
-Fuerte - guitar notation <a  href="https://gum.co/fuerte-tab">Buy</a>
+***
 
-How to Play Tempestad (by J. Serrano) - Guitar Lessons Video Course <a  href="https://gum.co/SJpsh">Buy</a>
-
-How to Play Sentinel-Libertad - Guitar Lesson Video Course <a  href="https://gum.co/SrJwG">Buy</a>
-
-Mapping the Fretboard Guitar Lesson Course <a  href="https://gum.co/riHBp">Buy</a>
-
-Blank Fretboard Chart - Large <a  href="https://gum.co/JJuHP">Buy</a>
-
-Waterfront - Official Album 2016 - Download <a  href="https://gum.co/waterfront">Buy</a>
-
-J. H. Clarke - Original Songbook - guitar notation <a  href="https://gum.co/ABqtxe">Buy</a>
-
-The Most Evolved - guitar notation <a  href="https://gum.co/the-most-evolved-tabs">Buy</a>
+# Guitar Lesson Video Courses 
 
 Week 1 - Spanish / Classical Guitar for Beginners <a  href="https://gum.co/xmkxR">Buy</a>
 
 How to play The Most Evolved - Guitar lesson video Course <a  href="https://gum.co/PgekY">Buy</a>
 
  Guitar Lessons Video Package  <a  href="https://gum.co/DcVZ">Buy</a>
+
+How to Play Tempestad (by J. Serrano) - Guitar Lessons Video Course <a  href="https://gum.co/SJpsh">Buy</a>
+
+How to Play Sentinel-Libertad - Guitar Lesson Video Course <a  href="https://gum.co/SrJwG">Buy</a>
+
+6-19-19 Simple Compostion in E major with in video notation <a  href="https://gum.co/bVsR">Buy</a>
+
+Mapping the Fretboard Guitar Lesson Course <a  href="https://gum.co/riHBp">Buy</a>
+
+Blank Fretboard Chart - Large <a  href="https://gum.co/JJuHP">Buy</a>
+
+***
+
+# Free
+
+The Most Evolved - Original Youtube Video - Download <a  href="https://gum.co/tme-vid">Buy</a>
+
+
+Get Updates - Get Free Music - $0 <a  href="https://gum.co/freemp3">Buy</a>
+
+
+
+
+
+
+
 
