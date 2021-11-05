@@ -1,9 +1,14 @@
 Title: Store Page
-
+<a href="#albums">Albums</a> |
+<a href="#notation">Notation</a> |
+<a href="#covers">Covers</a> |
+<a href="#backing">Backing Tracks</a> |
+<a href="#lessons">Lessons</a> |
+<a href="#videos">Videos</a>
 ***
-
+<a id="albums">
 ## Albums and Singles
-
+</a> 
 [Music Track Single: Seven Stones]({filename}/7stones.md) | <a  href="https://gum.co/PzSUc?">Buy</a>
 
 [Music Track Single: Life Ahead]({filename}/lifeahead.md) | <a  href="https://gum.co/niJXT">Buy</a>
@@ -19,8 +24,8 @@ Waterfront - compact disc | <a  href="https://gum.co/waterfront-cd">Buy</a>
 [Waterfront - Official Album 2016 - Download]({filename}/waterfront.md) | <a  href="https://gum.co/waterfront">Buy</a>
 
 ***
-
-##Guitar Notation (Originals)
+<a id="notation">
+##Guitar Notation (Originals)</a>
 
 J. H. Clarke - Original Songbook - guitar notation | <a  href="https://gum.co/ABqtxe">Buy</a>
 
@@ -61,8 +66,9 @@ Aurora Borealis - guitar notation | <a  href="https://gum.co/aurora-tab">Buy</a>
 To Live - guitar notation | <a  href="https://gum.co/to-live-tab">Buy</a>
 
 ---
+<a id="covers">
 
-##Guitar Notation (Covers / Arrangements)
+##Guitar Notation (Covers / Arrangements)</a>
 <!-- Beethoven's Moonlight Sonata 2nd movement - Tabs and Notation pdfs <a  href="https://gum.co/YdnB">Buy</a> -->
 O' Carolan's Concerto - guitar notation | <a  href="https://gum.co/ocarolan-tab">Buy</a>
 
@@ -74,17 +80,18 @@ Romance - guitar notation | <a  href="https://gum.co/romance-tab">Buy</a>
 
 
 ***
-
-# Backing Tracks
+<a id="backing">
+## Backing Tracks</a>
 
 Aurora Borealis - Backing Track | <a  href="https://gum.co/FUfzb">Buy</a>
 
 ***
-
-# Guitar Lesson Video Courses 
+<a id="lessons">
+## Guitar Lesson Video Courses </a>
 <!-- Full Membership <a  href="https://gum.co/QzLs">Buy</a> -->
-
 > *Please see [ClarkeGuitarSchool.com](https://clarkeguitarschool.com)*
+
+Master Class Online (coming soon)
 
 <!-- Week 1 - Spanish / Classical Guitar for Beginners <a  href="https://gum.co/xmkxR">Buy</a>
 
@@ -104,17 +111,38 @@ Blank Fretboard Chart - Large <a  href="https://gum.co/JJuHP">Buy</a> -->
 
 ***
 
-# Videos
+## Videos
 The Most Evolved - Original Youtube Video - Download | <a  href="https://gum.co/tme-vid">Buy</a>
 
-# Free
-
-Get Updates - Get Free Music - $0 | <a  href="https://gum.co/freemp3">Buy</a>
-
-
-
-
-
-
-
-
+<br>.
+<br>.
+<br>.
+<br>.
+<br>.
+<br>.
+<br>.
+<br>.
+<br>.
+<br>.
+<br>.
+<br>.
+<br>.
+<br>.
+<br>.
+<br>.
+<br>.
+<br>.
+<br>.
+<br>.
+<br>.
+<br>.
+<br>.
+<br>.
+<br>.
+<br>.
+<br>.
+<br>.
+<br>.
+<br>.
+<br>.
+<br>.
