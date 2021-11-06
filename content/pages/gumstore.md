@@ -1,13 +1,25 @@
 Title: Store Page
+
+.
+
 <a href="#albums">Albums</a> |
 <a href="#notation">Notation</a> |
 <a href="#covers">Covers</a> |
-<a href="#backing">Backing Tracks</a> |
+<a href="#backing">Backing-Tracks</a> |
 <a href="#lessons">Lessons</a> |
 <a href="#videos">Videos</a>
+
+.
+
 ***
+
+.
+
 <a id="albums">
 ## Albums and Singles
+
+.
+
 </a> 
 [Music Track Single: Seven Stones]({filename}/7stones.md) | <a  href="https://gum.co/PzSUc?">Buy</a>
 
@@ -23,9 +35,16 @@ Waterfront - compact disc | <a  href="https://gum.co/waterfront-cd">Buy</a>
 
 [Waterfront - Official Album 2016 - Download]({filename}/waterfront.md) | <a  href="https://gum.co/waterfront">Buy</a>
 
+.
+
 ***
+
+.
+
 <a id="notation">
 ##Guitar Notation (Originals)</a>
+
+.
 
 J. H. Clarke - Original Songbook - guitar notation | <a  href="https://gum.co/ABqtxe">Buy</a>
 
@@ -34,7 +53,6 @@ The Most Evolved - guitar notation | <a  href="https://gum.co/the-most-evolved-t
 Fuerte - guitar notation | <a  href="https://gum.co/fuerte-tab">Buy</a>
 
 Seven Stones - Guitar Notation | <a  href="https://gum.co/7stones">Buy</a>
-
 
 Un Tren - guitar notation | <a  href="https://gum.co/tren-tab">Buy</a>
 
@@ -65,7 +83,12 @@ Aurora Borealis - guitar notation | <a  href="https://gum.co/aurora-tab">Buy</a>
 
 To Live - guitar notation | <a  href="https://gum.co/to-live-tab">Buy</a>
 
+.
+
 ---
+
+.
+
 <a id="covers">
 
 ##Guitar Notation (Covers / Arrangements)</a>
@@ -78,14 +101,22 @@ Malaguena - guitar notation | <a  href="https://gum.co/malaguena-tab">Buy</a>
 
 Romance - guitar notation | <a  href="https://gum.co/romance-tab">Buy</a>
 
+.
 
 ***
+
+.
+
 <a id="backing">
 ## Backing Tracks</a>
 
 Aurora Borealis - Backing Track | <a  href="https://gum.co/FUfzb">Buy</a>
 
+.
+
 ***
+.
+
 <a id="lessons">
 ## Guitar Lesson Video Courses </a>
 <!-- Full Membership <a  href="https://gum.co/QzLs">Buy</a> -->
@@ -109,11 +140,20 @@ Mapping the Fretboard Guitar Lesson Course <a  href="https://gum.co/riHBp">Buy</
 
 Blank Fretboard Chart - Large <a  href="https://gum.co/JJuHP">Buy</a> -->
 
+.
+
 ***
 
-## Videos
+.
+
+<a id="videos">
+## Videos</a>
 The Most Evolved - Original Youtube Video - Download | <a  href="https://gum.co/tme-vid">Buy</a>
 
+<br>.
+<br>.
+<br>.
+<br>.
 <br>.
 <br>.
 <br>.
