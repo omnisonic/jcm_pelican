@@ -40,7 +40,7 @@ OUTPUT_PATH = 'docs'
 
 DISQUS_SITENAME = 'johnclarkemusic'
 TWITTER_USERNAME= 'johnclarkemusic'
-MENUITEMS= [("Blog",  'blog_index.html' )]
+MENUITEMS= [("Blog",  '.' )]
 
 
 STATIC_PATHS = ['images', 'extra/CNAME']

@@ -1,4 +1,4 @@
-Title: Store Page
+Title: Store
 
 .
 
