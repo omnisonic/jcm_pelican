@@ -122,8 +122,7 @@ Aurora Borealis - Backing Track | <a  href="https://gum.co/FUfzb">Buy</a>
 <!-- Full Membership <a  href="https://gum.co/QzLs">Buy</a> -->
 > *Please see [ClarkeGuitarSchool.com](https://clarkeguitarschool.com)*
 
-Master Class Online (coming soon)
-
+[Guitar Coaching Master Class]({filename}../coaching.md) | <a href="https://gumroad.com/l/kxgxy">Buy</a>
 <!-- Week 1 - Spanish / Classical Guitar for Beginners <a  href="https://gum.co/xmkxR">Buy</a>
 
 How to play The Most Evolved - Guitar lesson video Course <a  href="https://gum.co/PgekY">Buy</a>

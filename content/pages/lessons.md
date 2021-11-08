@@ -4,4 +4,4 @@ Title: Lessons
 
 
 
-[a link relative to the current file]({filename}/category/coaching.md)
+[a link relative to the current file]({filename}../coaching.md)
