@@ -4,4 +4,6 @@ Title: Lessons
 
 
 
-[a link relative to the current file]({filename}../coaching.md)
+
+
+[Guitar Coaching Master Class]({filename}../coaching.md) | <a href="https://gumroad.com/l/kxgxy">Buy</a>
