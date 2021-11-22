@@ -32,7 +32,7 @@ DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
-THEME = 'simple-jcm-1.0'  
+THEME = '/Users/omnisonic/Documents/code/MyWebDev/Python Static Sites/Pelican/jcm/theme/simple-jcm-2.0'  
 
 OUTPUT_PATH = 'docs'
 
@@ -43,7 +43,7 @@ TWITTER_USERNAME= 'johnclarkemusic'
 MENUITEMS= [("Blog",  '/blog_index.html' )]
 
 
-STATIC_PATHS = ['images', 'extra/CNAME']
+STATIC_PATHS = ['images' ,'extra/CNAME']
 EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}
 
 
