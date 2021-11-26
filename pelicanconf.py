@@ -42,8 +42,8 @@ DISQUS_SITENAME = 'johnclarkemusic'
 TWITTER_USERNAME= 'johnclarkemusic'
 MENUITEMS= [("Blog",  '/blog_index.html' )]
 
-
-STATIC_PATHS = ['images' ,'extra/CNAME']
+PAGE_EXCLUDES = 'static'
+STATIC_PATHS = ['static', 'images' ,'extra/CNAME']
 EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}
 
 
