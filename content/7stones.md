@@ -23,5 +23,5 @@ An original guitar composition in the odd meter of 7.
 Notation Bundle includes Pdf files of the tablature and staff  + backing track audio.
 
 <script src="https://gumroad.com/js/gumroad.js"></script>
-<a class="gumroad-button" href="https://johnclarkemusic.gumroad.com/l/7stones?wanted=true">Buy Notation</a>
+<a class="gumroad-button" href="https://johnclarkemusic.gumroad.com/l/7stones?wanted=true" >Buy Notation</a>
 
