@@ -47,7 +47,9 @@ h6 a { color: inherit !important } */
     margin-bottom: 1em;
     margin-top: 1em;
 } */
-
+p {
+  padding: 0 100px;
+}
 pre {
     margin: 2em 1em 2em 4em;
 }
