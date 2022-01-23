@@ -5,7 +5,7 @@ Tags: Music
 
 <iframe max-width="100%" src="https://www.youtube.com/embed/YdqMrr_kjD4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
-<a href="https://gumroad.com/l/nEAUq">Acoustik Guitar - Official Album 2006 - Buy and Download</a>
+<a class="gumroad-button" href="https://gumroad.com/l/nEAUq">Acoustik Guitar - Official Album 2006 - Buy and Download</a>
 
 J. H. Clarke's debut full length album. Released in 2006.  
 I recorded this album in a big studio space in the sunset district of San Francisco.  My debut full length classical guitar record. Recording and mastering by Vgo Recordings.  

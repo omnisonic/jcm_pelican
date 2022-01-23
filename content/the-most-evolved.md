@@ -10,7 +10,7 @@ Category: Composition
 </figure>
 <!-- blank line -->
 <script src="https://gumroad.com/js/gumroad.js"></script>
-<a class="btn btn-outline-success" href="https://gum.co/nEAUq?wanted=true" >Buy Original Album Release</a>
+<a class="gumroad-button" href="https://gum.co/nEAUq?wanted=true" >Buy Original Album Release</a>
 
 #### The Official Sheet Music Notation
 
@@ -23,5 +23,5 @@ Audio backing track included
 updated release 2020 includes fingerings and revisions
 
 <script src="https://gumroad.com/js/gumroad.js"></script>
-<a class="btn btn-outline-success" href="https://gum.co/the-most-evolved-tabs?wanted=true" >Buy Notation</a>
+<a class="gumroad-button" href="https://gum.co/the-most-evolved-tabs?wanted=true" >Buy Notation</a>
 
