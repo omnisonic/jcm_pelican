@@ -112,40 +112,38 @@
   <div class="hero-image">
     <img src="/theme/images/header-2_cropped-thin.jpg" class="img-fluid" alt="Artist Image">
   </div>
-
+  <button class="btn-toggle">Toggle Dark-Mode</button>
   <!-- <div class="hero-image">
     <img src="/theme/images/header-2_cropped.jpg" class="img-fluid" alt="Artist Image">
   </div> -->
 
-
-
-  <style> .gumroad-follow-form-embed { zoom: 1; } .gumroad-follow-form-embed:before, .gumroad-follow-form-embed:after { display: table; line-height: 0; content: ""; } .gumroad-follow-form-embed:after { clear: both; } .gumroad-follow-form-embed * { margin: 0; border: 0; padding: 0; outline: 0; box-sizing: border-box !important; float: left !important; } .gumroad-follow-form-embed input { border-radius: 4px; border-top-right-radius: 0; border-bottom-right-radius: 0; font-family: -apple-system, ".SFNSDisplay-Regular", "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 15px; line-height: 20px; background: #fff; border: 1px solid #ddd; border-right: 0; color: #aaa; padding: 10px; box-shadow: inset 0 1px 0 rgba(0, 0, 0, 0.02); background-position: top right; background-repeat: no-repeat; text-rendering: optimizeLegibility; font-smoothing: antialiased; -webkit-appearance: none; -moz-appearance: caret; width: 65% !important; height: 40px !important; } .gumroad-follow-form-embed button { border-radius: 4px; border-top-left-radius: 0; border-bottom-left-radius: 0; box-shadow: 0 1px 1px rgba(0, 0, 0, 0.12); -webkit-transition: all .05s ease-in-out; transition: all .05s ease-in-out; display: inline-block; padding: 11px 15px 12px; cursor: pointer; color: #fff; font-size: 15px; line-height: 100%; font-family: -apple-system, ".SFNSDisplay-Regular", "Helvetica Neue", Helvetica, Arial, sans-serif; background: #008e00; border: 1px solid #008000; filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#26b426, endColorstr=#008300, GradientType=0)"; background: -webkit-linear-gradient(#26b426, #008300); background: linear-gradient(to bottom, #26b426, #008300); height: 40px !important; width: 35% !important; } </style> <form action="https://app.gumroad.com/follow_from_embed_form" class="form gumroad-follow-form-embed" method="post"> <input name="seller_id" type="hidden" value="8461119892645"> <input name="email" placeholder="Your email address" type="email"> <button data-custom-highlight-color="" type="submit">Follow</button> </form>
+  <form action="https://app.gumroad.com/follow_from_embed_form" method="post"><input name="seller_id" type="hidden" value="8461119892645"><input class="gumroad-follow-form-embed-input" name="email" placeholder="Your email address" type="email"><button class="gumroad-follow-form-embed-button" data-custom-highlight-color="" type="submit">Follow</button></form>
 
   <!-- <nav id="menu"><ul> -->
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
-    <div class="container-fluid">
-      <a class="navbar-brand" href="{{SITEURL}}/">{{ SITENAME }}</a>
-      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+    <div id="toggle" class="container-fluid">
+      <a id="toggle" class="navbar-brand" href="{{SITEURL}}/">{{ SITENAME }}</a>
+      <button  class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
         aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
+        <span id="solid" class="navbar-toggler-icon"></span>
       </button>
       <div class="collapse navbar-collapse" id="navbarNav">
-        <ul class="nav navbar-nav">
+        <ul id="toggle" class="nav navbar-nav">
 
           {% for title, link in MENUITEMS %}
           <li class="nav-item">
-            {% if p == page %}<a  class="nav-link active" aria-current="page" href="{{ link }}">{{ title }}</a></li>
-            {% else %} <a class="nav-link" href="{{ link }}">{{ title }} </a></li>
+            {% if p == page %}<a id="active-link" class="nav-link active" aria-current="page" href="{{ link }}">{{ title }}</a></li >
+            {% else %} <a id="toggle" class="nav-link" href="{{ link }}">{{ title }} </a></li>
             {% endif %} 
       {% endfor %}
 
           {% if DISPLAY_PAGES_ON_MENU %}
           {% for p in pages %}
           <li class="nav-item">
-            {% if p == page %}<a class="nav-link active" aria-current="page" href="{{ SITEURL }}/{{ p.url }}">{{
+            {% if p == page %}<a id="active-link" class="nav-link active" aria-current="page" href="{{ SITEURL }}/{{ p.url }}">{{
               p.title
-              }}</a></li>
-          {% else %} <a class="nav-link" href="{{ SITEURL }}/{{ p.url }}">{{ p.title }} </a></li>
+              }}</a></li >
+          {% else %} <a id="toggle" class="nav-link" href="{{ SITEURL }}/{{ p.url }}">{{ p.title }} </a></li >
           {% endif %}
           {% endfor %}
           {% endif %}
@@ -206,7 +204,22 @@
     mixpanel.track('Visit', {
     });
 
+    const btn = document.querySelector(".btn-toggle");
 
+    const currentTheme = localStorage.getItem("theme");
+    if (currentTheme == "dark") {
+      document.body.classList.add("dark-theme");
+    }
+
+    btn.addEventListener("click", function () {
+      document.body.classList.toggle("dark-theme");
+
+      let theme = "light";
+      if (document.body.classList.contains("dark-theme")) {
+        theme = "dark";
+      }
+      localStorage.setItem("theme", theme);
+    });
   </script>
 
 
