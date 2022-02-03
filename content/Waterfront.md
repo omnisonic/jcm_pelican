@@ -5,7 +5,7 @@ Tags: Music
  
 <iframe max-width="100%" src="https://www.youtube.com/embed/ow6RE5L4U6Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
-<a  class="gumroad-button" href="https://gum.co/waterfront">Waterfront - Official Album 2016 - Buy and Download</a>  
+<a  class="gumroad-button" href="https://gum.co/waterfront?wanted=true">Waterfront - Official Album 2016 - Buy and Download</a>  
 
 An album of cover songs I played at the Wharf in San Francisco.  Recorded in my home studio.  Including my friends Josh Mellinger on cajon, and Rob Hansen on violin.  
 Enjoy these instrumental arrangements featuring Spanish guitar.

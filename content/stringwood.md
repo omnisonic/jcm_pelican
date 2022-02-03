@@ -4,7 +4,7 @@ Category: Album
 Tags: Music
 <iframe max-width="100%" src="https://www.youtube.com/embed/QaOrVgHCSpI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
-<a class="gumroad-button" href="https://gumroad.com/l/eYOnN">String and Wood - Official Album 2011 - Buy and Download</a>
+<a class="gumroad-button" href="https://gumroad.com/l/eYOnN?wanted=true">String and Wood - Official Album 2011 - Buy and Download</a>
 
 Full album of original composition for guitar and string quartet.  Recorded at Tiny Telephone in San Francisco.  All original guitar compositions with string quartet performed by the Magik Magik orchestra. Released 2011.
 
