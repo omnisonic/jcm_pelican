@@ -145,9 +145,11 @@ a.navbar-brand{
   color: var(--text-color);
   background-color: var(--bkg-color)
 }
-.btn-toggle, a.gumroad-button {
+.btn-toggle {
   background-color: var(--bkg-color);
   color: var(--text-color);
+  position: relative;
+  top: -1rem;
 }
 body, h2, p, .bg-light, .gumroad-follow-form-embed-input {
   background-color: var(--bkg-color) !important;
