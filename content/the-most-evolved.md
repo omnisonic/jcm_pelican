@@ -41,4 +41,3 @@ article, div {
 
 <script src="https://gumroad.com/js/gumroad.js"></script>
 <a class="btn btn-outline-success" href="https://gum.co/the-most-evolved-tabs?wanted=true" >Buy Notation</a>
-

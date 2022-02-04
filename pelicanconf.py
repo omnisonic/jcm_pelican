@@ -32,7 +32,7 @@ DEFAULT_PAGINATION = 5
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
-THEME = '/Users/omnisonic/Documents/code/MyWebDev/Python Static Sites/Pelican/jcm/theme/simple-jcm-2.0'  
+THEME = 'theme/simple-jcm-2.0'  
 
 OUTPUT_PATH = 'docs'
 

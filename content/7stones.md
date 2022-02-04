@@ -7,7 +7,7 @@ Tags: Music
 
 <!-- blank line -->
 <figure class="video_container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZAkAfWXvqXg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe max-width="100%" width="auto" src="https://www.youtube.com/embed/ZAkAfWXvqXg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 <!-- blank line -->
 
@@ -18,7 +18,7 @@ An original guitar composition in the odd meter of 7.
 <a class="gumroad-button" href="https://johnclarkemusic.gumroad.com/l/PzSUc?wanted=true">Buy MP3 Audio</a>
 
 
-<img src="{static}/images/Seven_Stones_notation_sample_image.png" alt="Seven Stones music notation sample image" width="560">
+<img width="32%" src="{static}/images/Seven_Stones_notation_sample_image.png" alt="Seven Stones music notation sample image" width="560">
 
 Notation Bundle includes Pdf files of the tablature and staff  + backing track audio.
 
