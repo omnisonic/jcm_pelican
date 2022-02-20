@@ -1,8 +1,8 @@
 Title: Azul  The John H Clarke Trio
-Date: 2019-06-09
+Date: 2014-06-13
 Category: Youtube
 Slug: Azul--The-John-H-Clarke-Trio
-Summary: <a href="/Azul--The-John-H-Clarke-Trio.html/"><img src="https://i.ytimg.com/vi/AT2DIBO0I-s/hqdefault.jpg" alt="Video Image JohnClarkeMusic"></a>
+Summary: <a href="/Azul--The-John-H-Clarke-Trio.html"><img src="https://i.ytimg.com/vi/AT2DIBO0I-s/hqdefault.jpg" alt="Video Image JohnClarkeMusic"></a>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AT2DIBO0I-s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

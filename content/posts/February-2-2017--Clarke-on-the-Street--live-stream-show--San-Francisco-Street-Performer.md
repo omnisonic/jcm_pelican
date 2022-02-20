@@ -1,8 +1,8 @@
 Title: February 2 2017  Clarke on the Street  live stream show  San Francisco Street Performer
-Date: 2020-09-15
+Date: 2017-02-01
 Category: Youtube
 Slug: February-2-2017--Clarke-on-the-Street--live-stream-show--San-Francisco-Street-Performer
-Summary: <a href="/February-2-2017--Clarke-on-the-Street--live-stream-show--San-Francisco-Street-Performer.html/"><img src="https://i.ytimg.com/vi/E8WV35m86Qo/hqdefault.jpg" alt="Video Image JohnClarkeMusic"></a>
+Summary: <a href="/February-2-2017--Clarke-on-the-Street--live-stream-show--San-Francisco-Street-Performer.html"><img src="https://i.ytimg.com/vi/E8WV35m86Qo/hqdefault.jpg" alt="Video Image JohnClarkeMusic"></a>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/E8WV35m86Qo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
