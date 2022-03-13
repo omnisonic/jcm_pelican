@@ -68,7 +68,10 @@
     {{ article.content }}
   </div><!-- /.entry-content -->
   <div class="entry-comments">  
-    {% include 'disqus.html' %}</div>
+    <h2>Comments</h2>
+    <script defer src="https://commento-jctech.herokuapp.com/js/commento.js"></script>
+    <div id="commento"></div>
+  </div></div>
 </section>
 {% endblock %}
 
