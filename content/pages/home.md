@@ -12,8 +12,7 @@ Guitar Practice Live Stream on Mondays 6pm PST on
  <li> <a href= "https://youtu.be/c63cMXI6Pcc" target="_blank">YouTube</a></li>
 
   <li><a href="https://twitch.com/johnclarkemusic" target="_blank">Twitch</a></li>
-
- <li><a href="https://johnhclarke.bandcamp.com/live/guitar-practice-session" target="_blank">Bandcamp Live Streams</a></li>
+  
  </ul>
 
 
