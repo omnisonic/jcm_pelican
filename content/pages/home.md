@@ -19,3 +19,6 @@ Guitar Practice Live Stream on Mondays 6pm PST on
 
 <img class="figure-img img-fluid rounded img-thumbnail" src="{static}/static/images/johnclarkemusic_livestream_image.jpg">
 
+### Now booking Events.  
+
+[Contact me here with your event details](pages/contact.html)
