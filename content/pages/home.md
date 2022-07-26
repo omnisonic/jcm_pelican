@@ -5,7 +5,12 @@ HeaderImage:  {static}/theme/images/header-2_cropped.jpg
 
 Thank you for visiting.
 
+<a href= "http://acoustik_guitar.johnclarkemusic.com/"> <img class="figure-img img-fluid rounded img-thumbnail" src="{static}/images/Acoustik-Guitar-2006-album-cover-300x258.jpg">Preview this Album </a>
+
+---
+
 Guitar Practice Live Stream on Mondays 6pm PST on 
+
 
 
 <ul>
@@ -18,7 +23,7 @@ Guitar Practice Live Stream on Mondays 6pm PST on
 
 
 <img class="figure-img img-fluid rounded img-thumbnail" src="{static}/static/images/johnclarkemusic_livestream_image.jpg">
+<!-- 
+### Now booking Events.   -->
 
-### Now booking Events.  
-
-[Contact me here with your event details](pages/contact.html)
+<!-- [Contact me here with your event details](pages/contact.html) -->
