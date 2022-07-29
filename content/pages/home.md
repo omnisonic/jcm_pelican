@@ -5,7 +5,9 @@ HeaderImage:  {static}/theme/images/header-2_cropped.jpg
 
 Thank you for visiting.
 
-<a href= "http://acoustik_guitar.johnclarkemusic.com/" target="_blank"  title="Preview Album"> <img class="figure-img img-fluid rounded img-thumbnail" src="{static}/images/Acoustik-Guitar-2006-album-cover-300x258.jpg">Preview this Album </a>
+<a href= "http://waterfront.johnclarkemusic.com/" target="_blank"  title="Preview Album"> <img class="figure-img img-fluid rounded img-thumbnail" width="300" height="258" src="{static}/images/waterfrontCover600x600.jpg"></a> <a href= "http://waterfront.johnclarkemusic.com/" target="_blank"  title="Preview Album">Preview the Waterfront album </a>
+
+<a href= "http://acoustik_guitar.johnclarkemusic.com/" target="_blank"  title="Preview Album"> <img class="figure-img img-fluid rounded img-thumbnail" src="{static}/images/Acoustik-Guitar-2006-album-cover-300x258.jpg">Preview the Acoustik Guitar album</a>
 
 ---
 
