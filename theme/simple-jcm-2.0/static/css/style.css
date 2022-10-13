@@ -16,7 +16,7 @@ body {
 
 .hero-image {
 margin-bottom: 2em;
-  
+
 }
 
 /* .hero-text {
@@ -31,7 +31,7 @@ margin-bottom: 2em;
 a:link    { color: black; text-decoration: underline;      }
 a:hover   { color: green; text-decoration:inherit; }
 a:visited { color: blue;                             }
-/* 
+/*
 h1 a { color: inherit !important }
 h2 a { color: inherit !important }
 h3 a { color: inherit !important }
@@ -100,4 +100,41 @@ article {
 
 .entry-content div {
   padding: 20px;
+}
+
+/*sdfasdf*/
+
+/* prefers-color-scheme: dark */
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #111;
+    color: #eee;
+  }
+  a:link    { color: #eee; text-decoration: underline;      }
+  a:hover   { color: #eee; text-decoration:inherit; }
+  a:visited { color: #eee;                             }
+  nav {
+    background-color: #111; !important;
+  }
+  /*#banner {*/
+    /*color: #eee;*/
+  /*}*/
+}
+
+/* prefers-color-scheme: light */
+@media (prefers-color-scheme: light) {
+  body {
+    background-color: #eee;
+    color: #111;
+  }
+  a:link    { color: #111; text-decoration: underline;      }
+  a:hover   { color: #111; text-decoration:inherit; }
+  a:visited { color: #111;                             }
+  nav {
+    background-color: #eee; !important;
+  }
+
+  /*#banner {*/
+    /*color: #111;*/
+  /*}*/
 }
