@@ -16,7 +16,7 @@ body {
 
 .hero-image {
 margin-bottom: 2em;
-  
+
 }
 
 /* .hero-text {
@@ -88,7 +88,40 @@ visibility: hidden;
   article {
       padding: 20px;
   }
-  
+
   .entry-content div {
     padding: 20px;
   }
+
+@media (prefers-color-scheme: light) {
+  body {
+    background-color: #eee;
+    color: #111;
+  }
+  a:link    { color: #111; text-decoration: underline;      }
+  a:hover   { color: #111; text-decoration:inherit; }
+  a:visited { color: #111;                             }
+  nav {
+    background-color: #eee; !important;
+  }
+
+  /*#banner {*/
+    /*color: #111;*/
+  /*}*/
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #111;
+    color: #eee;
+  }
+  a:link    { color: #eee; text-decoration: underline;      }
+  a:hover   { color: #eee; text-decoration:inherit; }
+  a:visited { color: #eee;                             }
+  nav {
+    background-color: #111; !important;
+  }
+  /*#banner {*/
+    /*color: #eee;*/
+  /*}*/
+}

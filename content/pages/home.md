@@ -1,7 +1,7 @@
 Title: Welcome
 URL:
 save_as: index.html
-HeaderImage:  {static}/theme/images/header-2_cropped.jpg 
+HeaderImage:  {static}/theme/images/header-2_cropped.jpg
 
 Thank you for visiting.<hr>
 
@@ -18,21 +18,21 @@ Thank you for visiting.<hr>
 
 ---
 
-Guitar Practice Live Stream on Mondays 6pm PST on 
+<!--Guitar Practice Live Stream on Mondays 6pm PST on -->
 
 
 
-<ul>
- <li> <a href= "https://youtu.be/c63cMXI6Pcc" target="_blank">YouTube</a></li>
+<!--<ul>-->
+ <!--<li> <a href= "https://youtu.be/c63cMXI6Pcc" target="_blank">YouTube</a></li>-->
 
-  <li><a href="https://twitch.com/johnclarkemusic" target="_blank">Twitch</a></li>
-  
- </ul>
+  <!--<li><a href="https://twitch.com/johnclarkemusic" target="_blank">Twitch</a></li>-->
+
+ <!--</ul>-->
 
 
 
-<img class="figure-img img-fluid rounded img-thumbnail" src="{static}/static/images/johnclarkemusic_livestream_image.jpg">
-<!-- 
-### Now booking Events.   -->
+<!--<img class="figure-img img-fluid rounded img-thumbnail" src="{static}/static/images/johnclarkemusic_livestream_image.jpg">-->
+<!--<!-- -->
+<!--### Now booking Events.   -->
 
-<!-- [Contact me here with your event details](pages/contact.html) -->
+<!--[> [Contact me here with your event details](pages/contact.html) <]-->
