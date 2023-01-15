@@ -4,11 +4,11 @@
 {% block content_title %}
 </section>
 {% endblock %}
-<div style="background:rgb(223, 222, 222);"><p>-- Blog Articles --</p></div>
+<div ><p>-- Blog Articles --</p></div>
 
 {% for article in articles_page.object_list %}
         <article class="hentry">
-                <header> <h2 style="background:rgb(223, 222, 222);" class="entry-title"><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></h2> </header>
+                <header> <h2  class="entry-title"><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></h2> </header>
                 <footer class="post-info">
                     <time class="published" datetime="{{ article.date.isoformat() }}"> {{ article.locale_date }} </time>
                     <address class="vcard author">By

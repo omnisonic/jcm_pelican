@@ -142,10 +142,10 @@
   <!-- /#menu -->
 <section id="content">
 </section>
-<div style="background:rgb(223, 222, 222);"><p>-- Blog Articles --</p></div>
+<div ><p>-- Blog Articles --</p></div>
 
         <article class="hentry">
-                <header> <h2 style="background:rgb(223, 222, 222);" class="entry-title"><a href="/instagram-feed-embed.html" rel="bookmark" title="Permalink to Instagram Feed Embed">Instagram Feed Embed</a></h2> </header>
+                <header> <h2  class="entry-title"><a href="/instagram-feed-embed.html" rel="bookmark" title="Permalink to Instagram Feed Embed">Instagram Feed Embed</a></h2> </header>
                 <footer class="post-info">
                     <time class="published" datetime="2022-11-20T00:00:00+01:00"> Sun 20 November 2022 </time>
                     <address class="vcard author">By
@@ -160,7 +160,7 @@
 
         </article>
         <article class="hentry">
-                <header> <h2 style="background:rgb(223, 222, 222);" class="entry-title"><a href="/guitar-coaching.html" rel="bookmark" title="Permalink to Guitar Coaching">Guitar Coaching</a></h2> </header>
+                <header> <h2  class="entry-title"><a href="/guitar-coaching.html" rel="bookmark" title="Permalink to Guitar Coaching">Guitar Coaching</a></h2> </header>
                 <footer class="post-info">
                     <time class="published" datetime="2020-11-08T00:00:00+01:00"> Sun 08 November 2020 </time>
                     <address class="vcard author">By
@@ -180,7 +180,7 @@ You may submit up to one 5-10 min video per week …</p>  </div><!-- /.entry-con
 
         </article>
         <article class="hentry">
-                <header> <h2 style="background:rgb(223, 222, 222);" class="entry-title"><a href="/seven-stones.html" rel="bookmark" title="Permalink to Seven Stones">Seven Stones</a></h2> </header>
+                <header> <h2  class="entry-title"><a href="/seven-stones.html" rel="bookmark" title="Permalink to Seven Stones">Seven Stones</a></h2> </header>
                 <footer class="post-info">
                     <time class="published" datetime="2020-10-17T00:00:00+02:00"> Sat 17 October 2020 </time>
                     <address class="vcard author">By
@@ -206,7 +206,7 @@ You may submit up to one 5-10 min video per week …</p>  </div><!-- /.entry-con
 
         </article>
         <article class="hentry">
-                <header> <h2 style="background:rgb(223, 222, 222);" class="entry-title"><a href="/song-release-life-ahead.html" rel="bookmark" title="Permalink to Song Release: Life Ahead">Song Release: Life Ahead</a></h2> </header>
+                <header> <h2  class="entry-title"><a href="/song-release-life-ahead.html" rel="bookmark" title="Permalink to Song Release: Life Ahead">Song Release: Life Ahead</a></h2> </header>
                 <footer class="post-info">
                     <time class="published" datetime="2020-10-17T00:00:00+02:00"> Sat 17 October 2020 </time>
                     <address class="vcard author">By
@@ -223,7 +223,7 @@ You may submit up to one 5-10 min video per week …</p>  </div><!-- /.entry-con
 
         </article>
         <article class="hentry">
-                <header> <h2 style="background:rgb(223, 222, 222);" class="entry-title"><a href="/album-release-waterfront.html" rel="bookmark" title="Permalink to Album Release: Waterfront">Album Release: Waterfront</a></h2> </header>
+                <header> <h2  class="entry-title"><a href="/album-release-waterfront.html" rel="bookmark" title="Permalink to Album Release: Waterfront">Album Release: Waterfront</a></h2> </header>
                 <footer class="post-info">
                     <time class="published" datetime="2016-04-30T00:00:00+02:00"> Sat 30 April 2016 </time>
                     <address class="vcard author">By
@@ -253,6 +253,7 @@ Enjoy these instrumental arrangements featuring Spanish guitar.</p>
 <!-- /#contentinfo -->
 
 <footer>
+    <hr>
   <div>
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
@@ -314,6 +315,147 @@ Enjoy these instrumental arrangements featuring Spanish guitar.</p>
 -->
 
   </div>
+
+  <!-- insert jinja2 code here for contact_form.html template -->
+  Contact Form
+<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/xgenedzv" method="post">
+  <fieldset id="fs-frm-inputs">
+    <label for="full-name">Full Name</label>
+    <input type="text" name="name" id="full-name" placeholder="First and Last" required="">
+    <label for="email-address">Email Address</label>
+    <input type="email" name="_replyto" id="email-address" placeholder="email@domain.tld" required="">
+    <label for="message">Message</label>
+    <textarea rows="5" name="message" id="message" placeholder="Type you message here." required=""></textarea>
+    <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
+  </fieldset>
+  <input type="submit"  value="Submit">
+    <!-- <input type="submit" onclick="clearForm()" value="Clear"> -->
+</form>
+
+<script>
+  function clearForm() {
+      // document.getElementById("fs-frm").submit();
+
+    document.getElementById("fs-frm").reset();
+  }
+  </script>
+
+  <script type="text/javascript">
+  function codeAddress() {
+    document.getElementById("fs-frm").reset();
+  }
+  window.onload = codeAddress;
+  </script>
+
+
+
+<style>/* reset */
+#fs-frm input,
+#fs-frm select,
+#fs-frm textarea,
+#fs-frm fieldset,
+#fs-frm optgroup,
+#fs-frm label,
+#fs-frm #card-element:disabled {
+  font-family: inherit;
+  font-size: 100%;
+  border: none;
+  border-radius: 0;
+  display: block;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+#fs-frm label,
+#fs-frm legend,
+#fs-frm ::placeholder {
+  font-size: .825rem;
+  margin-bottom: .5rem;
+  padding-top: .2rem;
+  display: flex;
+  align-items: baseline;
+}
+
+/* border, padding, margin, width */
+#fs-frm input,
+#fs-frm select,
+#fs-frm textarea,
+#fs-frm #card-element {
+  border: 1px solid rgba(0,0,0,0.2);
+  background-color: rgb(204, 204, 204);
+  padding: .75em 1rem;
+  margin-bottom: 1.5rem;
+}
+#fs-frm input:focus,
+#fs-frm select:focus,
+#fs-frm textarea:focus {
+  background-color: white;
+  outline-style: solid;
+  outline-width: thin;
+  outline-color: gray;
+  outline-offset: -1px;
+}
+#fs-frm [type="text"],
+#fs-frm [type="email"] {
+  width: 100%;
+}
+#fs-frm [type="button"],
+#fs-frm [type="submit"],
+#fs-frm [type="reset"] {
+  width: auto;
+  cursor: pointer;
+  -webkit-appearance: button;
+  -moz-appearance: button;
+  appearance: button;
+}
+#fs-frm [type="button"]:focus,
+#fs-frm [type="submit"]:focus,
+#fs-frm [type="reset"]:focus {
+  outline: none;
+}
+#fs-frm [type="submit"],
+#fs-frm [type="reset"] {
+  margin-bottom: 0;
+}
+#fs-frm select {
+  text-transform: none;
+}
+
+#fs-frm [type="checkbox"] {
+  -webkit-appearance: checkbox;
+  -moz-appearance: checkbox;
+  appearance: checkbox;
+  display: inline-block;
+  width: auto;
+  margin: 0 .5em 0 0 !important;
+}
+
+#fs-frm [type="radio"] {
+  -webkit-appearance: radio;
+  -moz-appearance: radio;
+  appearance: radio;
+}
+
+/* address, locale */
+#fs-frm fieldset.locale input[name="city"],
+#fs-frm fieldset.locale select[name="state"],
+#fs-frm fieldset.locale input[name="postal-code"] {
+  display: inline;
+}
+#fs-frm fieldset.locale input[name="city"] {
+  width: 52%;
+}
+#fs-frm fieldset.locale select[name="state"],
+#fs-frm fieldset.locale input[name="postal-code"] {
+  width: 20%;
+}
+#fs-frm fieldset.locale input[name="city"],
+#fs-frm fieldset.locale select[name="state"] {
+  margin-right: 3%;
+}
+</style>
   <p>Copyright 2022. All rights reserved.</p>
 </footer>
 
