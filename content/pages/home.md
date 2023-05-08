@@ -3,7 +3,8 @@ URL:
 save_as: index.html
 HeaderImage:  {static}/theme/images/header-2_cropped.jpg
 
-Thank you for visiting.<hr>
+Thank you for visiting.
+<a href="https://www.gigsalad.com/john_h_clarke_san_diego"><img src="https://cress.gigsalad.com/images/svg/standalone/promokit-links/book-securely/book-securely--dark.svg" alt="Hire me on GigSalad" height="100" width="300"></a><hr>
 
 <a href= "http://waterfront.johnclarkemusic.com/" target="_blank"  title="Preview Album"> <img class="figure-img img-fluid rounded img-thumbnail" width="300" height="258" src="{static}/images/waterfrontCover600x600.jpg"></a> <a href= "http://waterfront.johnclarkemusic.com/" target="_blank"  title="Preview Album">Preview the 'Waterfront' album </a> <hr>
 
