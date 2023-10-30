@@ -4,8 +4,10 @@ save_as: index.html
 HeaderImage:  {static}/theme/images/header-2_cropped.jpg
 
 Thank you for visiting.
-<a href="https://www.gigsalad.com/john_h_clarke_san_diego"><img src="https://cress.gigsalad.com/images/svg/standalone/promokit-links/book-securely/book-securely--dark.svg" alt="Hire me on GigSalad" height="100" width="300"></a><hr>
+<a href="https://www.gigsalad.com/john_h_clarke_san_diego"><img src="https://cress.gigsalad.com/images/svg/standalone/promokit-links/book-securely/book-securely--dark.svg" alt="Hire me on GigSalad" height="100" width="300"></a>
 
+<a href="https://www.songkick.com/artists/433272" class="songkick-widget" data-theme="dark" data-track-button="off" data-detect-style="off" data-background-color="rgb(0,0,0,1)" data-font-color="rgb(255,255,255,1)" data-button-bg-color="rgb(255,255,255,1)" data-button-text-color="rgb(0,0,0,1)" data-locale="en" data-other-artists="off" data-share-button="on" data-country-filter="on" data-rsvp="on" data-request-show="off" data-past-events="off" data-past-events-offtour="off" data-remind-me="off"></a><script src='//widget-app.songkick.com/injector/433272'></script>
+<hr>
 <a href= "http://waterfront.johnclarkemusic.com/" target="_blank"  title="Preview Album"> <img class="figure-img img-fluid rounded img-thumbnail" width="300" height="258" src="{static}/images/waterfrontCover600x600.jpg"></a> <a href= "http://waterfront.johnclarkemusic.com/" target="_blank"  title="Preview Album">Preview the 'Waterfront' album </a> <hr>
 
 
