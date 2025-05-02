@@ -1,17 +1,17 @@
 Title: Notation
 
-.
+<img src="{static}/images/to-live-notation-thumbnail.JPG" width="300" alt="Music Notation for guitar by John H. clarke" />
 
-I use sheet music (written notation) daily when I practice my own repertoire. I also use it to compose music for guitar.  I have many publications of my own compositions as well as arrangements for works by others:
-.
+<p><a href="https://johnclarkemusic.gumroad.com/?sort=highest_rated&tags=notation" target="_blank"> My original music notation and other downloads are available at  Gumroad <br>
+
+ https://gumroad.com/johnclarkemusic</a></p>
 
 ---
 
-.
 
 ##Guitar Notation (Originals)
 
-.
+
 
 J. H. Clarke - Original Songbook - guitar notation | <a  href="https://gum.co/ABqtxe">Buy</a>
 
@@ -50,32 +50,3 @@ With Love - guitar notation | <a  href="https://gum.co/with-love-tab">Buy</a>
 Aurora Borealis - guitar notation | <a  href="https://gum.co/aurora-tab">Buy</a>
 
 To Live - guitar notation | <a  href="https://gum.co/to-live-tab">Buy</a>
-
-.
-
----
-
-.
-
-##Guitar Notation (Covers / Arrangements)
-<!-- Beethoven's Moonlight Sonata 2nd movement - Tabs and Notation pdfs <a  href="https://gum.co/YdnB">Buy</a> -->
-
-.
-
-O' Carolan's Concerto - guitar notation | <a  href="https://gum.co/ocarolan-tab">Buy</a>
-
-Jerusalem of Gold - guitar notation | <a  href="https://gum.co/jerusalem-tab">Buy</a>
-
-Malaguena - guitar notation | <a  href="https://gum.co/malaguena-tab">Buy</a>
-
-Romance - guitar notation | <a  href="https://gum.co/romance-tab">Buy</a>
-
-.
-
-***
-
-.
-
-<p><a href="https://johnclarkemusic.gumroad.com/?sort=highest_rated&tags=notation" target="_blank"> My music notation is also available at  Gumroad<br>
-
- https://gumroad.com/johnclarkemusic</a></p>

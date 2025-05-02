@@ -1,14 +1,11 @@
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/xgenedzv" method="post">
   <fieldset id="fs-frm-inputs">
-    <label for="full-name">Full Name</label>
-    <input type="text" name="name" id="full-name" placeholder="First and Last" required="">
-    <label for="email-address">Email Address</label>
-    <input type="email" name="_replyto" id="email-address" placeholder="email@domain.tld" required="">
-    <label for="message">Message</label>
-    <textarea rows="5" name="message" id="message" placeholder="Type you message here." required=""></textarea>
+    <input type="text" name="name" id="full-name" placeholder="First and Last" required="" style="margin-left: auto; margin-right: auto; display: block; width: 60%;" >
+    <input type="email" name="_replyto" id="email-address" placeholder="email@domain.tld" required="" style="margin-left: auto; margin-right: auto; display: block; width: 60%;">
+    <textarea rows="5" name="message" id="message" placeholder="Type you message here." required="" style="margin-left: auto; margin-right: auto; display: block; width: 60%;"></textarea>
     <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
   </fieldset>
-  <input type="submit"  value="Submit">
+  <input type="submit"  value="Submit" style="margin-left: auto; margin-right: auto; display: block; width: 60%;">
     <!-- <input type="submit" onclick="clearForm()" value="Clear"> -->
 </form>
 
@@ -79,7 +76,10 @@
 }
 #fs-frm [type="text"],
 #fs-frm [type="email"] {
-  width: 100%;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
 }
 #fs-frm [type="button"],
 #fs-frm [type="submit"],

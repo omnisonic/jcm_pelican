@@ -1,5 +1,5 @@
 Title: Store
-
+Status: draft
 .
 
 <a href="#albums">Albums</a> |

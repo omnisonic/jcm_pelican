@@ -1,23 +1,7 @@
 Title: Lessons
 
-<!--
+My new guitar lesson website can be found at <a href="https://johnclarkeguitarlessons.com" target="_blank">johnclarkeguitarlessons.com</a>
 
-    <p><a href="https://ClarkeGuitarSchool.com" target="_blank">https://ClarkeGuitarSchool.com</a></p>
-
-[Guitar Coaching Master Class]({filename}../coaching.md) | <a href="https://gumroad.com/l/kxgxy">Buy</a>
-
--->
-
-<hr>
-### *** NOTICE  My old guitar lesson website is offline.  I apologize!  I am working to put up a replacement soon. <br>
-Consider Private Lessons?
-<hr>
-
-# Private Online Guitar Lessons with Zoom
-
-## 40 minutes Lesson each week for 4 weeks is $160.00
-
-<a style="float:none; " id="Setmore_button_iframe"  href="https://booking.setmore.com/scheduleappointment/db0f7282-c84c-42e6-9c96-1297824d784e"><img border="none" src="https://storage.googleapis.com/full-assets/setmore/images/1.0/Settings/book-now-blue.svg" alt="Book an appointment with John using Setmore"/></a>
-
-### Please contact me with the form below for Availability and Questions.
-<script id="setmore_script" type="text/javascript" src="https://storage.googleapis.com/fullintegration-live/webComponentAppListing/Container/setmoreIframeLive.js"></script>
+<a href="https://johnclarkeguitarlessons.com" target="_blank">
+  <img src="{filename}../images/jcgl_screenshot_2025.JPG" alt="John Clarke Guitar Lessons" style="width:100%; max-width:600px; border: 2px solid blue;">
+</a>

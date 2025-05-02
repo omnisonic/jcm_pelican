@@ -1,32 +1,12 @@
 Title: Albums
 
-<div class="collapse" id="waterfront">
-<a data-bs-toggle="collapse" href="#waterfront"  aria-expanded="false" aria-controls="waterfront">
-Waterfront</a>
-<script src="https://gumroad.com/js/gumroad-embed.js"></script>
-<div class="gumroad-product-embed"><a href="https://gumroad.com/l/KwetO">Loading...</a></div>
-</div>
-<a Title="show / hide Album" data-bs-toggle="collapse" href="#waterfront"  aria-expanded="false" aria-controls="waterfront">
-Waterfront</a>
+<a href= "http://waterfront.johnclarkemusic.com/" target="_blank"  title="Preview Album"> <img class="figure-img img-fluid rounded img-thumbnail" width="300" height="258" src="{static}/images/waterfrontCover600x600.jpg"></a> <a href= "http://waterfront.johnclarkemusic.com/" target="_blank"  title="Preview Album">Preview the 'Waterfront' album </a> <hr>
 
-<div class="collapse"  id="trio">
-<a data-bs-toggle="collapse" href="#trio"  aria-expanded="false" aria-controls="trio">John Clarke Trio </a><br>
-<script src="https://gumroad.com/js/gumroad-embed.js"></script>
-<div class="gumroad-product-embed"><a href="https://gumroad.com/l/ZuVBq">Loading...</a></div>
-</div>
 
-<a  Title="show / hide Album" data-bs-toggle="collapse" href="#trio"  aria-expanded="false" aria-controls="trio">John Clarke Trio </a>
+<a href= "http://trio.johnclarkemusic.com/" target="_blank"  title="Preview Album"> <img class="figure-img img-fluid rounded img-thumbnail" width="300"  src="{static}/images/trio_cover.png"></a> <a href= "http://trio.johnclarkemusic.com/" target="_blank"  title="Preview Album">Preview the 'Trio' album </a><hr>
 
-<div class="collapse" id="stringwood">
-<a  Title="show / hide Album" data-bs-toggle="collapse" href="#stringwood"  aria-expanded="false" aria-controls="stringwood">String and Wood</a><br>
-<script src="https://gumroad.com/js/gumroad-embed.js"></script>
-<div class="gumroad-product-embed"><a href="https://gumroad.com/l/eYOnN">Loading...</a></div>
-</div>
-<a  Title="show / hide Album" data-bs-toggle="collapse" href="#stringwood"  aria-expanded="false" aria-controls="stringwood">String and Wood </a>
 
-<div class="collapse" id="acoustikguitar">
-<a data-bs-toggle="collapse" href="#acoustikguitar"  aria-expanded="false" aria-controls="acoustikguitar">Acoustik Guitar </a><br>
-<script src="https://gumroad.com/js/gumroad-embed.js"></script>
-<div class="gumroad-product-embed"><a href="https://gumroad.com/l/nEAUq">Loading...</a></div>
-</div>
-<a Title="show / hide Album" data-bs-toggle="collapse" href="#acoustikguitar"  aria-expanded="false" aria-controls="acoustikguitar">Acoustik Guitar  </a>
+<a href= "http://acoustik_guitar.johnclarkemusic.com/" target="_blank"  title="Preview Album"> <img class="figure-img img-fluid rounded img-thumbnail" src="{static}/images/Acoustik-Guitar-2006-album-cover-300x258.jpg"></a> <a href= "http://acoustik-guitar.johnclarkemusic.com/" target="_blank"  title="Preview Album">Preview the 'Acoutik Guitar' album </a><hr>
+
+
+<a href= "http://stringandwood.johnclarkemusic.com/" target="_blank"  title="Preview Album"> <img class="figure-img img-fluid rounded img-thumbnail" width="300" height="258" src="https://main.dl6yssa90aeyi.amplifyapp.com/static/images/large.jpeg"></a> <a href= "http://stringandwood.johnclarkemusic.com/" target="_blank"  title="Preview Album">Preview the 'String and Wood' album </a>

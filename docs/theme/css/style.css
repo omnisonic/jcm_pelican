@@ -1,8 +1,8 @@
 body {
   font-family: monospace;
-  font-size: 100%;
-  background-color: white;
-  color: #111;
+  /* font-size: 100%; */
+  /* background-color: white; */
+  /* color: #111; */
   min-height: 200px;
   padding: 1em;
   /* margin: 5% 10%; */
@@ -10,8 +10,9 @@ body {
   border: thin solid gray;
   border-radius: 5px;
   display: block;
-  text-align: center;
+  text-align:left;
   max-width: 1000px;
+  
 }
 
 .hero-image {
