@@ -1,6 +1,6 @@
 Title: Notation
 
-<img src="{static}/images/to-live-notation-thumbnail.JPG" width="300" alt="Music Notation for guitar by John H. clarke" />
+<img src="{static}/images/to-live-notation-thumbnail.JPG" width="200" alt="Music Notation for guitar by John H. clarke" /><img src="{static}/images/fuerte-image-small.jpg" width="200" alt="Music Notation for guitar by John H. clarke" /><img src="{static}/images/tme-notation-thumb.jpg" width="200" alt="Music Notation for guitar by John H. clarke" />
 
 <p><a href="https://johnclarkemusic.gumroad.com/?sort=highest_rated&tags=notation" target="_blank"> My original music notation and other downloads are available at  Gumroad <br>
 
