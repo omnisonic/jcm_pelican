@@ -99,9 +99,6 @@
 
           <!-- supress page from menu using metadata menu: ....-->
           <li class="nav-item">
- <a class="nav-link" href="/pages/albums.html">Albums </a></li>
-          <!-- supress page from menu using metadata menu: ....-->
-          <li class="nav-item">
  <a class="nav-link" href="/pages/contact.html">Contact </a></li>
           <!-- supress page from menu using metadata menu: ....-->
           <!-- supress page from menu using metadata menu: ....-->
@@ -119,6 +116,9 @@
           <!-- supress page from menu using metadata menu: ....-->
           <li class="nav-item">
 <a class="nav-link active" aria-current="page" href="/pages/photos.html">Photos</a></li>
+          <!-- supress page from menu using metadata menu: ....-->
+          <li class="nav-item">
+ <a class="nav-link" href="/pages/recordings.html">Recordings </a></li>
           <!-- supress page from menu using metadata menu: ....-->
           <li class="nav-item">
  <a class="nav-link" href="/pages/video.html">Video </a></li>
@@ -149,8 +149,28 @@
     <h1>Photos</h1>
     
 
-    <p><img src="/images/artandwine4.jpg" width="50%" alt="John Clarke at Art and Wine Festival" /><img src="/images/20250304_balboa-park.jpeg" width="50%" alt="John Clarke playing guitar Botanical Gardens" /><img src="/images/wedding-2.jpg" width="50%" alt="John Clarke playing guitar at a wedding" /><img src="/images/guitar-over-shoulder.png" width="50%" alt="John Clarke promo photo
-" /><img src="/images/artandwine3.jpg" width="50%" alt="John Clarke at Art and Wine Festival" /><img src="/images/wedding5.jpg" width="50%" alt="John Clarke at Wedding" /><img src="/images/photo-with-fan-pier39.jpg" width="50%" alt="John Clarke with fan at pier 39" /><img src="/images/trio-spot-12.jpg" width="50%" alt="John Clarke with trio in San Fransisco" /><img src="/images/ag-promo.JPG" width="50%" alt="Acoustik Gutiar Album photo" /><img src="/images/Trio-bulb-instr-color-bkgd-bw.jpg" width="50%" alt="John Clarke with trio Albany bulb" /></p>
+    <style>
+  .photos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  .photos img {
+    width: 48%;
+    margin-bottom: 1rem;
+    height: auto; /* Allow the height to adjust proportionally */
+    aspect-ratio: 4 / 3; /* Set your desired aspect ratio */
+    object-fit: cover; /* Ensure the image covers the container */
+  }
+
+</style>
+
+<div class="photos">
+
+<img src="/images/artandwine4.jpg" width="50%" alt="John Clarke at Art and Wine Festival" /><img src="/images/20250304_balboa-park.jpeg" width="50%" alt="John Clarke playing guitar Botanical Gardens" /><img src="/images/wedding-2.jpg" width="50%" alt="John Clarke playing guitar at a wedding" /><img src="/images/guitar-over-shoulder.png" width="50%" alt="John Clarke promo photo
+" /><img src="/images/artandwine3.jpg" width="50%" alt="John Clarke at Art and Wine Festival" /><img src="/images/wedding5.jpg" width="50%" alt="John Clarke at Wedding" /><img src="/images/photo-with-fan-pier39.jpg" width="50%" alt="John Clarke with fan at pier 39" /><img src="/images/trio-spot-12.jpg" width="50%" alt="John Clarke with trio in San Fransisco" /><img src="/images/ag-promo.JPG" width="50%" alt="Acoustik Gutiar Album photo" /><img src="/images/Trio-bulb-instr-color-bkgd-bw.jpg" width="50%" alt="John Clarke with trio Albany bulb" />
+
+</div>
 
 
 <!-- /#contentinfo -->
@@ -356,13 +376,13 @@
 
 
 <a href="https://www.gigsalad.com/john_h_clarke_san_diego"><img src="https://cress.gigsalad.com/images/svg/standalone/promokit-links/book-securely/book-securely--dark.svg" alt="Hire me on GigSalad" height="100" width="300"></a>
-<hr>
+
 <!-- <a href="https://www.songkick.com/artists/433272" class="songkick-widget" data-theme="dark" data-track-button="off" data-detect-style="off" data-background-color="rgb(0,0,0,1)" data-font-color="rgb(255,255,255,1)" data-button-bg-color="rgb(255,255,255,1)" data-button-text-color="rgb(0,0,0,1)" data-locale="en" data-other-artists="off" data-share-button="on" data-country-filter="on" data-rsvp="on" data-request-show="off" data-past-events="off" data-past-events-offtour="off" data-remind-me="off"></a><script src='//widget-app.songkick.com/injector/433272'></script>
 <hr> -->
 
 <!-- Add font awesome icons -->
 <a href="https://bsky.app/profile/johnclarkemusic.bsky.social" class="fa fa-twitter"></a>
-<a href="https://youtube.com/johnclarkemusic/" target="_blank" class="fa fa-youtube"></a>  <p>Copyright 2025. All rights reserved.</p>
+<a href="https://youtube.com/johnclarkemusic/" target="_blank" class="fa fa-youtube"></a>  Copyright 2025. All rights reserved.
 </footer>
 
   <!-- JavaScript Bundle with Popper -->
@@ -377,7 +397,7 @@
 
   <!-- mixpanel.com page analytics -->
 
-  <script type="text/javascript">
+  <!-- <script type="text/javascript">
     (function (f, b) {
       if (!b.__SV) {
         var e, g, i, h; window.mixpanel = b; b._i = []; b.init = function (e, f, c) {
@@ -395,7 +415,7 @@
     });
 
 
-  </script>
+  </script> -->
 
 
 </body>
