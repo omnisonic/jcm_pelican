@@ -1,15 +1,35 @@
-Title: Notation
+Title: Notation and Tabs
 
-<img src="{static}/images/to-live-notation-thumbnail.JPG" width="200" alt="Music Notation for guitar by John H. clarke" /><img src="{static}/images/fuerte-image-small.jpg" width="200" alt="Music Notation for guitar by John H. clarke" /><img src="{static}/images/tme-notation-thumb.jpg" width="200" alt="Music Notation for guitar by John H. clarke" />
 
-<p><a href="https://johnclarkemusic.gumroad.com/?sort=highest_rated&tags=notation" target="_blank"> My original music notation and other downloads are available at  Gumroad <br>
+
+<style>
+    .photos {
+        width: 80%; /* Or a fixed width like 500px */
+        margin-left: auto;
+        margin-right: auto;
+        /* ... other flexbox properties ... */    }
+
+
+   .photos img {
+        margin: 4px;
+        border-radius: 10px;
+        max-width: 100%; /* or any suitable value */
+        height: auto;
+
+    }
+</style>
+
+<div class="photos">
+
+<img src="{static}/images/to-live-notation-thumbnail.JPG" width="200" alt="Music Notation for guitar by John H. clarke" /><img src="{static}/images/fuerte-image-small.jpg" width="200" alt="Music Notation for guitar by John H. clarke" /><img src="{static}/images/tme-notation-thumb.jpg" width="200" alt="Music Notation for guitar by John H. clarke" /> </div>
+<p><a href="https://johnclarkemusic.gumroad.com/?sort=highest_rated&tags=notation" target="_blank"> My original music notation and other downloads are available at Gumroad <br>
 
  https://gumroad.com/johnclarkemusic</a></p>
 
 ---
 
 
-##Guitar Notation (Originals)
+##Original Compositions
 
 
 
@@ -19,8 +39,7 @@ The Most Evolved - guitar notation | <a  href="https://gum.co/the-most-evolved-t
 
 Fuerte - guitar notation | <a  href="https://gum.co/fuerte-tab">Buy</a>
 
-Seven Stones - Guitar Notation | <a  href="https://gum.co/7stones">Buy</a>
-
+Seven Stones - guitar Notation | <a  href="https://gum.co/7stones">Buy</a>
 
 Un Tren - guitar notation | <a  href="https://gum.co/tren-tab">Buy</a>
 
@@ -30,7 +49,7 @@ Sentinel - guitar notation | <a  href="https://gum.co/sentinel-tab">Buy</a>
 
 Revolution - guitar notation | <a  href="https://gum.co/revolution-tab">Buy</a>
 
-Pursuit of the Cygnus Theif - guitar notation | <a  href="https://gum.co/pursuit-tab">Buy</a>
+Pursuit of the Cygnus Thief - guitar notation | <a  href="https://gum.co/pursuit-tab">Buy</a>
 
 No Pretense - guitar notation | <a  href="https://gum.co/pretense-tab">Buy</a>
 

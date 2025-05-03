@@ -8,6 +8,7 @@ Title: Photos
     justify-content: space-between;
   }
   .photos img {
+    border-radius: 10px;
     width: 48%;
     margin-bottom: 1rem;
     height: auto; /* Allow the height to adjust proportionally */
