@@ -40,6 +40,13 @@ OUTPUT_PATH = 'docs'
 
 DISQUS_SITENAME = 'johnclarkemusic'
 TWITTER_USERNAME= 'johnclarkemusic'
+
+DEFAULT_OG_TITLE = SITENAME
+DEFAULT_OG_DESCRIPTION = 'John Clarke Music'
+DEFAULT_OG_IMAGE = 'https://johnclarkemusic.com' + '/theme/images/header-2_cropped-thin.jpg'
+DEFAULT_OG_URL = 'https://johnclarkemusic.com'
+DEFAULT_OG_TYPE = 'website'
+
 MENUITEMS= []
 
 PAGE_EXCLUDES = 'static'
