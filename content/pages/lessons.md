@@ -1,4 +1,5 @@
 Title: Lessons
+order: 6
 
 My new guitar lesson website can be found at <a href="https://johnclarkeguitarlessons.com" target="_blank">johnclarkeguitarlessons.com</a>
 

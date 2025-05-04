@@ -1,4 +1,5 @@
 Title: Video
+order: 4
 
 I first started working on 'Pier Loop' when I was using a loop pedal to loop phrases of the guitar and layer them over each other.  I had totally forgotten about this song for some years until I found a recording on YouTube someone had made of my playing it at Pier 39 in San Francisco.  Here in its final version.  Really glad my fiends and collaborators, Josh and Rob, were willing to contribute to the recording. Their performances are always such a amazing addition to my music.  
 

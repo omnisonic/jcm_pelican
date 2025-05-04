@@ -1,4 +1,5 @@
 Title: Recordings
+order: 3
 
 My recordings are available at all major music retailers including: <a href="https://music.apple.com/us/artist/john-h-clarke/272432833" target="_blank">Apple Music</a>, <a href="https://www.amazon.com/music/player/artists/B0019FIE80/john-h-clarke" target="_blank">Amazon Music</a>, <a href="https://www.pandora.com/artist/john-h-clarke/AR69jcfn22qpw3V" target="_blank">Pandora</a>, and <a href="https://open.spotify.com/artist/5otepXqqWjip4ZcN24p9Uj" target="_blank">Spotify</a>.
 

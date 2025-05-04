@@ -10,5 +10,18 @@
 
 <!-- Add font awesome icons -->
   <a href="https://bsky.app/profile/johnclarkemusic.bsky.social" class="fa fa-twitter" style="border-radius: 5px;"></a>
-  <a href="https://youtube.com/johnclarkemusic/" target="_blank" class="fa fa-youtube" style="border-radius: 5px;"></a>  Copyright 2025. All rights reserved.
+  <a href="https://youtube.com/johnclarkemusic/" target="_blank" class="fa fa-youtube" style="border-radius: 5px;"></a>
+
+  <hr>
+  <div>
+    <a href="{{ SITEURL }}/" class="footer-nav-link">Home</a>
+    {% for p in pages %}
+      {% if p.metadata.footer_exclude != "true" %}
+        <a href="{{ SITEURL }}/{{ p.url }}" class="footer-nav-link">{{ p.title }}</a>
+      {% endif %}
+    {% endfor %}
+  </div>
+  <hr>
+
+  Copyright 2025. All rights reserved.
 </div>
