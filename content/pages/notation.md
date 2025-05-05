@@ -34,6 +34,10 @@ Click the image to go purchase page.
         <a href="https://gum.co/ABqtxe"><img src="{static}/images/jhc-songbook-image.webp" alt="Original Songbook"></a>
         <div>J. H. Clarke - Original Songbook</div>
     </div>
+        <div class="grid-item">
+        <a href="https://johnclarkemusic.gumroad.com/l/jwuin"><img src="{static}/images/notation-sample-images/pier-loop-notation-sample.JPG" alt="Pier Loop guitar notation sample"></a>
+        <div>Pier Loop</div>
+    </div>
     <div class="grid-item">
         <a href="https://gum.co/aurora-tab"><img src="{static}/images/notation-sample-images/aurora-borealis-notation-sample.JPG" alt="Aurora Borealis"></a>
         <div>Aurora Borealis</div>
