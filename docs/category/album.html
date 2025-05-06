@@ -293,140 +293,79 @@ I recorded this album in a big studio space in the sunset district of San Franci
   Contact Form
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/xgenedzv" method="post">
   <fieldset id="fs-frm-inputs">
-    <input type="text" name="name" id="full-name" placeholder="First and Last" required="" style="margin-left: auto; margin-right: auto; display: block; width: 60%;" >
-    <input type="email" name="_replyto" id="email-address" placeholder="email@domain.tld" required="" style="margin-left: auto; margin-right: auto; display: block; width: 60%;">
-    <textarea rows="5" name="message" id="message" placeholder="Type you message here." required="" style="margin-left: auto; margin-right: auto; display: block; width: 60%;"></textarea>
+    <input type="text" name="name" id="full-name" placeholder="First and Last" required="">
+    <input type="email" name="_replyto" id="email-address" placeholder="email@domain.tld" required="">
+    <textarea rows="5" name="message" id="message" placeholder="Type your message here." required=""></textarea>
     <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
   </fieldset>
-  <input type="submit"  value="Submit" style="margin-left: auto; margin-right: auto; display: block; width: 60%;">
-    <!-- <input type="submit" onclick="clearForm()" value="Clear"> -->
+  <input type="submit" value="Submit">
 </form>
 
 <script>
-  function clearForm() {
-      // document.getElementById("fs-frm").submit();
+function clearForm() {
+  document.getElementById("fs-frm").reset();
+}
 
-    document.getElementById("fs-frm").reset();
-  }
-  </script>
+window.onload = function() {
+  document.getElementById("fs-frm").reset();
+};
+</script>
 
-  <script type="text/javascript">
-  function codeAddress() {
-    document.getElementById("fs-frm").reset();
-  }
-  window.onload = codeAddress;
-  </script>
+<style>
+/* Base form styles */
+#fs-frm {
+  width: 90%;
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
 
-
-
-<style>/* reset */
 #fs-frm input,
-#fs-frm select,
-#fs-frm textarea,
-#fs-frm fieldset,
-#fs-frm optgroup,
-#fs-frm label,
-#fs-frm #card-element:disabled {
-  font-family: inherit;
-  font-size: 100%;
-  border: none;
-  border-radius: 4;
-  display: block;
+#fs-frm textarea {
   width: 100%;
-  padding: 0;
-  margin: 0;
-  -webkit-appearance: none;
-  -moz-appearance: none;
-}
-#fs-frm label,
-#fs-frm legend,
-#fs-frm ::placeholder {
-  font-size: .825rem;
-  margin-bottom: .5rem;
-  padding-top: .2rem;
-  display: flex;
-  align-items: baseline;
+  margin: 10px 0;
+  padding: 12px;
+  border: 1px solid rgba(0,0,0,0.2);
+  border-radius: 4px;
+  background-color: rgb(204, 204, 204);
+  font-size: 16px; /* Better readability on mobile */
 }
 
-/* border, padding, margin, width */
-#fs-frm input,
-#fs-frm select,
-#fs-frm textarea,
-#fs-frm #card-element {
-  border: 1px solid rgba(0,0,0,0.2);
-  background-color: rgb(204, 204, 204);
-  padding: .75em 1rem;
-  margin-bottom: 1.5rem;
-}
 #fs-frm input:focus,
-#fs-frm select:focus,
 #fs-frm textarea:focus {
   background-color: white;
-  outline-style: solid;
-  outline-width: thin;
-  outline-color: gray;
-  outline-offset: -1px;
+  outline: 2px solid gray;
 }
-#fs-frm [type="text"],
-#fs-frm [type="email"] {
-  width: 80%;
-  margin-left: auto;
-  margin-right: auto;
+
+#fs-frm [type="submit"] {
+  width: 100%;
+  max-width: 200px;
+  margin: 20px auto;
   display: block;
-}
-#fs-frm [type="button"],
-#fs-frm [type="submit"],
-#fs-frm [type="reset"] {
-  width: auto;
+  padding: 12px 20px;
+  background: linear-gradient(to bottom, #b8b8b8, #535953);
+  color: white;
+  border: none;
+  border-radius: 4px;
   cursor: pointer;
-  -webkit-appearance: button;
-  -moz-appearance: button;
-  appearance: button;
-}
-#fs-frm [type="button"]:focus,
-#fs-frm [type="submit"]:focus,
-#fs-frm [type="reset"]:focus {
-  outline: none;
-}
-#fs-frm [type="submit"],
-#fs-frm [type="reset"] {
-  margin-bottom: 0;
-}
-#fs-frm select {
-  text-transform: none;
 }
 
-#fs-frm [type="checkbox"] {
-  -webkit-appearance: checkbox;
-  -moz-appearance: checkbox;
-  appearance: checkbox;
-  display: inline-block;
-  width: auto;
-  margin: 0 .5em 0 0 !important;
-}
-
-#fs-frm [type="radio"] {
-  -webkit-appearance: radio;
-  -moz-appearance: radio;
-  appearance: radio;
-}
-
-/* address, locale */
-#fs-frm fieldset.locale input[name="city"],
-#fs-frm fieldset.locale select[name="state"],
-#fs-frm fieldset.locale input[name="postal-code"] {
-  display: inline;
-}
-#fs-frm fieldset.locale input[name="city"] {
-  width: 52%;
-}
-#fs-frm fieldset.locale select[name="state"],
-#fs-frm fieldset.locale input[name="postal-code"] {
-  width: 20%;
-}
-#fs-frm fieldset.locale input[name="city"],
-#fs-frm fieldset.locale select[name="state"] {
-  margin-right: 3%;
+/* Mobile-first responsive design */
+@media screen and (max-width: 600px) {
+  #fs-frm {
+    width: 100%;
+    padding: 10px;
+  }
+  
+  #fs-frm input,
+  #fs-frm textarea {
+    font-size: 16px; /* Prevents zoom on mobile iOS */
+    padding: 10px;
+  }
+  
+  #fs-frm [type="submit"] {
+    width: 100%;
+  }
 }
 </style>  <hr>
 
