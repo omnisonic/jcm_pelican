@@ -71,6 +71,36 @@
     type="application/rss+xml" rel="alternate" title="{{ SITENAME }} Tags RSS Feed" />
   {% endif %}
   {% endblock head %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "@id": "https://johnclarkemusic.com/#person",
+    "name": "John H. Clarke",
+    "url": "https://johnclarkemusic.com",
+    "image": "{{ SITEURL }}/images/john-clarke-performer.jpg",
+    "sameAs": [
+      "https://www.youtube.com/@JohnHClarke",
+      "https://bandcamp.com/johnhclarke"
+    ],
+    "jobTitle": "Professional Guitarist",
+    "description": "Classical and Latin guitar performer with over 25 years of experience",
+    "areaServed": [
+      {
+        "@type": "City",
+        "name": "Santa Fe",
+        "state": "New Mexico",
+        "availablePeriod": "May through November"
+      },
+      {
+        "@type": "City",
+        "name": "San Diego",
+        "state": "California",
+        "availablePeriod": "December through April"
+      }
+    ]
+  }
+  </script>
 </head>
 
 <body id="index" class="home">
