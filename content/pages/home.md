@@ -54,21 +54,45 @@ Hello! I'm John H. Clarke, a professional guitarist with over 25 years of experi
 }
 
 .image-container {
+    overflow: hidden;
+    border-radius: 8px;
     margin: 2em auto;
-    max-width: 100%;
-    text-align: center;
 }
 
 .image-container img {
     width: 100%;
     max-width: 1200px;
     height: auto;
+    display: block;
+    animation: zoom-out 5s ease forwards;
 }
+
+.image-container:hover img {
+    animation: zoom-in 5s ease forwards;
+}
+
+@keyframes zoom-in {
+    0% {
+        transform: scale(1);
+    }
+    100% {
+        transform: scale(1.50);
+    }
+}
+
+@keyframes zoom-out {
+    0% {
+        transform: scale(1.50);
+    }
+    100% {
+        transform: scale(1);
+    }
 
 .image-container figcaption {
     margin-top: 0.5em;
     font-style: italic;
     color: #666;
+    text-align: center;
 }
 
 @media screen and (max-width: 768px) {

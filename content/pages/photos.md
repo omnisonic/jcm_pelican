@@ -26,6 +26,12 @@ Description: View John H. Clarke performing classical and contemporary guitar at
     object-fit: cover; /* Ensure the image covers the container */
   }
 
+
+
+.photos img:hover {
+    transform: scale(1.02);
+    transition: transform 0.3s ease;
+}
 </style>
 
 <div class="photos">
