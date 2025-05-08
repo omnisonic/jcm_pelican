@@ -7,6 +7,10 @@
   <meta charset="utf-8" />
   <meta name="generator" content="Pelican" />
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="index, follow">
+  <meta name="author" content="{{ AUTHOR }}">
+  <meta name="geo.region" content="US-NM,US-CA">
+  <meta name="geo.placename" content="Santa Fe, San Diego">
 
   <!-- Open Graph meta tags -->
   <meta property="og:title" content="{% block og_title %}{{ SITENAME }}{% endblock og_title %}" />
@@ -14,7 +18,21 @@
   <meta property="og:image" content="{% block og_image %}{{ SITEURL }}{{ DEFAULT_OG_IMAGE }}{% endblock og_image %}" />
   <meta property="og:url" content="{% block og_url %}{{ DEFAULT_OG_URL }}/{% endblock og_url %}" />
   <meta property="og:type" content="{% block og_type %}{{ DEFAULT_OG_TYPE }}{% endblock og_type %}" />
-  <!-- End Open Graph meta tags -->
+  <meta property="og:locale" content="en_US">
+  <meta property="og:site_name" content="{{ SITENAME }}">
+
+  <!-- Twitter Card Tags -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@{{ TWITTER_USERNAME }}">
+  <meta name="twitter:title" content="{% block twitter_title %}{{ DEFAULT_OG_TITLE }}{% endblock %}">
+  <meta name="twitter:description" content="{% block twitter_description %}{{ DEFAULT_OG_DESCRIPTION }}{% endblock %}">
+  <meta name="twitter:image" content="{% block twitter_image %}{{ DEFAULT_OG_IMAGE }}{% endblock %}">
+
+  <!-- Canonical URL -->
+  <link rel="canonical" href="{{ SITEURL }}/{{ output_file }}">
+
+  <!-- Additional SEO Meta -->
+  <meta name="keywords" content="classical guitar, latin guitar, guitar performer, live music, {{ self.title() }}, Santa Fe musician, San Diego guitarist">
 
   <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 <link rel="icon" href="/favicon.ico" type="image/x-icon">
