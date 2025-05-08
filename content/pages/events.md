@@ -1,56 +1,14 @@
-Title: Events
+Title: Live Music and Entertainment for Events in Santa Fe & San Diego
+Menu_Title: Events
 order: 5
+Description: Professional guitarist John Clarke available for events in Santa Fe (Summer & Fall) and San Diego (Winter). Classical, Latin, and contemporary guitar performance.
 
 ---
 
-I am available for private events, parties, and more.  I play a variety of styles including classical, latin, pop, and flamenco-fusion.  
-<br> Currently Booking in the Santa Fe, New Mexico Area.  Submit the form below for a quote through Gigsalad or contact me directly at the bottom of this page.
+## Professional Guitar Performance for Your Special Occasion {.centered}
 
-<style>
-    .photos {
-        width: 95%;
-        max-width: 1000px;
-        margin: 0 auto;
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: center;
-        gap: 15px;
-        padding: 20px;
-    }
-
-    .photos img {
-        flex: 1;
-        min-width: 250px;
-        max-width: 350px;
-        height: auto;
-        border-radius: 10px;
-        object-fit: cover;
-    }
-
-    /* Gigsalad widget responsive styles */
-    #gigsalad_quote_widget {
-        width: 95% !important;
-        max-width: 600px !important;
-        margin: 20px auto !important;
-    }
-
-    @media screen and (max-width: 768px) {
-        .photos {
-            width: 100%;
-            padding: 10px;
-            gap: 10px;
-        }
-
-        .photos img {
-            min-width: 100%;
-            margin: 5px 0;
-        }
-
-        #gigsalad_quote_widget {
-            width: 100% !important;
-        }
-    }
-</style>
+Elevating events with classical, latin, and contemporary guitar music
+{: .hero-text}
 
 <div class="photos">
     <img src="{static}/images/art-and-wine-festival.jpg" alt="John Clarke and Josh Mellinger Playing Music at Art and Wine Festival" />
@@ -58,11 +16,34 @@ I am available for private events, parties, and more.  I play a variety of style
     <img src="{static}/images/wedding-guitar-1.jpg" alt="John Clarke playing guitar for wedding in Santa Cruz Mountains" />
 </div>
 
----
+## Current Availability {.centered}
 
-<div align="center">
-    <div id="gigsalad_quote_widget"></div>
-</div>
+**Summer & Fall Season (May-November)**
+Available for bookings in Santa Fe, New Mexico
+{: .availability-text}
+
+**Winter Season (December-April)**
+Available for bookings in San Diego, California
+{: .availability-text}
+
+## Event Services {.centered}
+
+* Weddings & Ceremonies
+* Corporate Events
+* Private Parties
+* Wine Tastings
+* Art Galleries
+* Restaurant Ambiance
+* Festivals
+* Breweries
+* Backyard Gatherings
+
+## Book Your Event {.centered}
+
+Ready to enhance your event with live music? Get in touch today.
+{: .cta-text}
+
+<div id="gigsalad_quote_widget"></div>
 
 <script>
     var gscqForm;
@@ -87,4 +68,140 @@ I am available for private events, parties, and more.  I play a variety of style
         par.insertBefore(s,scr);
     })(document,'script');
 </script>
+
+<style>
+.centered {
+    text-align: center;
+    margin: 2em auto;
+}
+
+.hero-text {
+    text-align: center;
+    font-size: 1.2em;
+    margin: 1em auto;
+    max-width: 800px;
+}
+
+.availability-text {
+    text-align: center;
+    margin: 1em auto;
+    max-width: 600px;
+}
+
+.services-list {
+    display: table;
+    margin: 2em auto;
+    max-width: 600px;
+    list-style-type: disc;
+    text-align: left;
+    padding-left: 2em;
+}
+
+.services-list li {
+    margin: 0.5em 0;
+    line-height: 1.6;
+}
+
+.cta-text {
+    text-align: center;
+    font-size: 1.2em;
+    margin: 2em auto;
+    max-width: 800px;
+}
+
+.photos {
+    width: 95%;
+    max-width: 1200px;
+    margin: 0 auto 3em;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+}
+
+.photos img {
+    flex: 1;
+    min-width: 300px;
+    max-width: 380px;
+    height: 250px;
+    border-radius: 10px;
+    object-fit: cover;
+    transition: transform 0.3s ease;
+}
+
+.photos img:hover {
+    transform: scale(1.02);
+}
+
+.cta-section {
+    text-align: center;
+    margin: 2em auto;
+    padding: 2em;
+    background: #f5f5f5;
+    border-radius: 10px;
+    max-width: 800px;
+}
+
+.cta-section p {
+    font-size: 1.2em;
+    margin-bottom: 1.5em;
+    color: black;
+}
+
+#gigsalad_quote_widget {
+    width: 95% !important;
+    max-width: 600px !important;
+    margin: 20px auto !important;
+}
+
+.centered-list {
+    width: fit-content;
+    margin: 2em auto;
+    text-align: left;
+    padding: 1em;
+    max-width: 600px;
+}
+
+.centered-list ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+.centered-list li {
+    margin-bottom: 0.5em;
+    line-height: 1.6;
+}
+
+.centered + ul {
+    display: table;
+    margin: 2em auto;
+    max-width: 600px;
+    list-style-type: disc;
+    text-align: left;
+    padding-left: 2em;
+}
+
+.centered + ul li {
+    margin: 0.5em 0;
+    line-height: 1.6;
+}
+
+@media screen and (max-width: 768px) {
+    .photos {
+        padding: 10px;
+        gap: 15px;
+    }
+
+    .photos img {
+        min-width: 100%;
+        height: 200px;
+        margin: 0;
+    }
+
+    .cta-section {
+        padding: 1em;
+    }
+}
+</style>
 

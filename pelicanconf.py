@@ -47,7 +47,13 @@ DEFAULT_OG_IMAGE = 'https://johnclarkemusic.com' + '/theme/images/header-2_cropp
 DEFAULT_OG_URL = 'https://johnclarkemusic.com'
 DEFAULT_OG_TYPE = 'website'
 
-MENUITEMS= []
+DISPLAY_PAGES_ON_MENU = False
+MENUITEMS = [
+    ('Events', '/pages/live-music-and-entertainment-for-events-in-santa-fe-san-diego.html'),
+    ('Music', '/pages/classical-guitar-music-albums-and-original-compositions.html'),
+    ('Lessons', '/pages/guitar-lessons-and-music-education-in-santa-fe.html'),
+    ('Contact', '/pages/contact-professional-guitarist-john-clarke.html')
+]
 
 PAGE_EXCLUDES = 'static'
 STATIC_PATHS = ['static', 'images' ,'extra/CNAME']
@@ -55,3 +61,10 @@ EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}
 
 
 INDEX_SAVE_AS = 'blog_index.html'
+
+MARKDOWN = {
+    'extension_configs': {
+        'markdown.extensions.attr_list': {},
+        # ...other extensions...
+    }
+}
