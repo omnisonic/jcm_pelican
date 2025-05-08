@@ -9,6 +9,7 @@ invoke = "*"
 livereload = "*"
 pelican = "*"
 requests = "*"
+pelican-sitemap = "*"
 
 [dev-packages]
 black = "*"

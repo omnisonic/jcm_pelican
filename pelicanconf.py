@@ -72,3 +72,34 @@ MARKDOWN = {
         # ...other extensions...
     }
 }
+
+# Sitemap Settings
+SITEMAP = {
+    'format': 'xml',
+    'priorities': {
+        'articles': 0.8,
+        'indexes': 0.5,
+        'pages': 0.7
+    },
+    'changefreqs': {
+        'articles': 'weekly',
+        'indexes': 'daily',
+        'pages': 'monthly'
+    }
+}
+
+PLUGINS = [
+    'sitemap'  # Changed from 'pelican.plugins.sitemap' to 'sitemap'
+]
+
+# Static files
+STATIC_PATHS = [
+    'images',
+    'extra/robots.txt',
+    'extra/CNAME'  # Keep your existing CNAME entry
+]
+
+EXTRA_PATH_METADATA = {
+    'extra/robots.txt': {'path': 'robots.txt'},
+    'extra/CNAME': {'path': 'CNAME'}  # Keep your existing CNAME metadata
+}
