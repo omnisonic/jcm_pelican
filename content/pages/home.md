@@ -64,29 +64,13 @@ Hello! I'm John H. Clarke, a professional guitarist with over 25 years of experi
     max-width: 1200px;
     height: auto;
     display: block;
-    animation: zoom-out 5s ease forwards;
+    transform: scale(1);
+    transition: transform 5s ease;
 }
 
 .image-container:hover img {
-    animation: zoom-in 5s ease forwards;
+    transform: scale(1.15);
 }
-
-@keyframes zoom-in {
-    0% {
-        transform: scale(1);
-    }
-    100% {
-        transform: scale(1.50);
-    }
-}
-
-@keyframes zoom-out {
-    0% {
-        transform: scale(1.50);
-    }
-    100% {
-        transform: scale(1);
-    }
 
 .image-container figcaption {
     margin-top: 0.5em;

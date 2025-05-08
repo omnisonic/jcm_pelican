@@ -8,7 +8,7 @@ Description: View John H. Clarke performing classical and contemporary guitar at
 ### Promotional & Event Photos {.centered}
 
 <div class="centered-content">
-    <p>Moments captured from live performances, photo shoots, and special events.</p>
+    <p class="centered-text">Moments captured from live performances, photo shoots, and special events.</p>
 </div>
 
 <style>
@@ -31,6 +31,10 @@ Description: View John H. Clarke performing classical and contemporary guitar at
 .photos img:hover {
     transform: scale(1.02);
     transition: transform 0.3s ease;
+}
+
+.centered-text {
+    text-align: center;
 }
 </style>
 
