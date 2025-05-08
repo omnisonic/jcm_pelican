@@ -1,0 +1,65 @@
+Title: Guitar Performance Videos by John H. Clarke
+Menu_Title: Video
+order: 4
+Description: Watch live performances and music videos featuring classical and contemporary guitar by John H. Clarke, including original compositions and covers.
+
+---
+
+### Featured Performance Videos {.centered}
+
+<div class="centered-content">
+    <div class="video-container">
+        <h3>Pier Loop (feat. Josh and Rob)</h3>
+        <p>I first started working on 'Pier Loop' when I was using a loop pedal to loop phrases of the guitar and layer them over each other. I had totally forgotten about this song for some years until I found a recording on YouTube someone had made of my playing it at Pier 39 in San Francisco. Here in its final version. Really glad my friends and collaborators, Josh and Rob, were willing to contribute to the recording. Their performances are always such an amazing addition to my music.</p>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/cj1ACud81Ck" title="Pier Loop - Original Guitar Composition by John H. Clarke" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        
+        <h3>Seven Stones</h3>
+        <p>There was a photographer/videographer I met while playing at Pier 39 in San Francisco who I became friends with. He did a great job putting this video together. This song name was made up with the help of people on youtube.com. Thanks youtube friends!</p>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/Am1Iu8V54II" title="Seven Stones - Live at Pier 39" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        
+        <h3>To Live - Original Classical Guitar Composition</h3>
+        <p>"To Live" is the first classical guitar piece I wrote. Also one of the only published songs I originally wrote on paper--since then I have moved to writing music on the computer. The song title is partially inspired by a Chinese film of the same name.</p>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/oKBmhPIrAWY" title="To Live - Classical Guitar Original" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+        <h3>The Most Evolved</h3>
+        <p>This song gets its name from the fact that I have strange ways of naming songs. I was preparing to record this song on an album that included a number of other songs I had written. While I was trying to think of a name for the song, it occurred to me that this song had changed the 'most' since I first starting playing it. So I thought I would just call it 'The Most Evolved' until I thought of something better. I never did think of a better name and this song itself is about something else entirely.</p>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/PHU-AJTn0I8" title="The Most Evolved - Guitar Composition by John H. Clarke" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+</div>
+
+<style>
+.centered-content {
+    text-align: center;
+    max-width: 1000px;
+    margin: 2em auto;
+    padding: 0 1em;
+}
+
+.centered {
+    text-align: center;
+}
+
+.video-container {
+    margin: 2em 0;
+}
+
+.video-container h3 {
+    margin: 1.5em 0 0.5em;
+}
+
+.video-container p {
+    margin-bottom: 1em;
+    color: #666;
+}
+
+.video-container iframe {
+    max-width: 100%;
+    margin-bottom: 2em;
+}
+
+@media (max-width: 768px) {
+    .video-container iframe {
+        height: 240px;
+    }
+}
+</style>

@@ -15,6 +15,21 @@ body {
   
 }
 
+:root {
+  --form-bg: #f8f8f8;
+  --form-border: #cccccc;
+  --form-text: #111111;
+  --form-button-bg: linear-gradient(to bottom, #b8b8b8, #535953);
+  --form-button-text: #ffffff;
+  --form-input-bg: #ffffff;
+  --form-input-border: #dddddd;
+  --form-input-text: #111111;
+  --form-submit-bg: linear-gradient(to bottom, #666, #444);
+  --form-submit-text: #ffffff;
+  --form-focus-border: #666666;
+  --form-shadow: rgba(0,0,0,0.1);
+}
+
 .hero-image {
 margin-bottom: 2em;
 
@@ -72,28 +87,7 @@ visibility: hidden;
 }
  */
 
- .gumroad-follow-form-embed button {
-	border-radius: 4px;
-	border-top-left-radius: 0;
-	border-bottom-left-radius: 0;
-	box-shadow: 0 1px 1px rgba(0, 0, 0, 0.12);
-	-webkit-transition: all .05s ease-in-out;
-	transition: all .05s ease-in-out;
-	display: inline-block;
-	padding: 11px 15px 12px;
-	cursor: pointer;
-	color: #fff;
-	font-size: 15px;
-	line-height: 100%;
-	font-family: -apple-system, ".SFNSDisplay-Regular", "Helvetica Neue", Helvetica, Arial, sans-serif;
-	background: #008e00;
-	border: 1px solid #008000;
-	filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#26b426, endColorstr=#008300, GradientType=0)";
-	/* background: -webkit-linear-gradient(#26b426, #008300); */
-	background: linear-gradient(to bottom, #b8b8b8, #535953) !important;
-	height: 40px !important;
-	width: 35% !important;
-}
+
 .vid-contain {
   margin: auto;
   width: 60%;
@@ -112,6 +106,20 @@ article {
 
 /* prefers-color-scheme: dark */
 @media (prefers-color-scheme: dark) {
+  :root {
+    --form-bg: #222222;
+    --form-border: #444444;
+    --form-text: #eeeeee;
+    --form-button-bg: linear-gradient(to bottom, #444444, #222222);
+    --form-button-text: #eeeeee;
+    --form-input-bg: #333333;
+    --form-input-border: #444444;
+    --form-input-text: #eeeeee;
+    --form-submit-bg: linear-gradient(to bottom, #444444, #222222);
+    --form-submit-text: #eeeeee;
+    --form-focus-border: #666666;
+    --form-shadow: rgba(255,255,255,0.1);
+  }
   body {
     background-color: #111;
     color: #eee;
@@ -129,6 +137,20 @@ article {
 
 /* prefers-color-scheme: light */
 @media (prefers-color-scheme: light) {
+  :root {
+    --form-bg: #f8f8f8;
+    --form-border: #cccccc;
+    --form-text: #111111;
+    --form-button-bg: linear-gradient(to bottom, #b8b8b8, #535953);
+    --form-button-text: #ffffff;
+    --form-input-bg: #ffffff;
+    --form-input-border: #dddddd;
+    --form-input-text: #111111;
+    --form-submit-bg: linear-gradient(to bottom, #666, #444);
+    --form-submit-text: #ffffff;
+    --form-focus-border: #666666;
+    --form-shadow: rgba(0,0,0,0.1);
+  }
   body {
     background-color: #eee;
     color: #111;

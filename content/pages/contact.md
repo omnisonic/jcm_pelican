@@ -1,55 +1,35 @@
-Title: Contact Professional Guitarist John Clarke
+Title: Contact Professional Guitarist John H. Clarke
 Menu_Title: Contact
 order: 8
-Description: Contact John Clarke for professional guitar performances, online guitar lessons, and event bookings. Quick response guaranteed.
+Description: Contact John H. Clarke for guitar performances, online music lessons, music production, and event bookings in Santa Fe and San Diego.
 
-<div class="contact-intro">
-    <img src="{static}/images/jhclarke-formal-event.jpg" alt="John Clarke performing classical guitar at a formal event in Santa Fe" width="300" />
-    <div class="contact-text">
-        <h2>I can't wait to hear from you!</h2>
-        <p>I'm available for:</p>
-        <ul>
-            <li>Event Bookings</li>
-            <li>Online Guitar Lessons</li>
-            <li>Music Production</li>
-
-        </ul>
-        <p>Response time: Within 24 hours</p>
-    </div>
+<div class="centered-content">
+    <img src="{static}/images/jhclarke-formal-event.jpg" alt="John Clarke performing classical guitar at a formal event" />
 </div>
 
-<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/xgenedzv" method="post">
-</form>
-
+## I can't wait to hear from you! {.centered}
 
 <style>
-.contact-intro {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 2rem;
-    align-items: start;
-    margin-bottom: 2rem;
+.centered-content {
+    text-align: center;
+    max-width: 1000px;
+    margin: 2em auto;
+    padding: 0 1em;
 }
 
-.contact-text {
-    flex: 1;
-    min-width: 300px;
+.centered-content img {
+    width: 50%;
+    height: auto;
+    border-radius: 8px;
 }
 
-.additional-contact {
-    margin-top: 2rem;
+.centered {
     text-align: center;
 }
 
 @media (max-width: 768px) {
-    .contact-intro {
-        flex-direction: column;
-    }
-    
-    .contact-intro img {
-        width: 100%;
-        max-width: 300px;
-        margin: 0 auto;
+    .centered-content img {
+        width: 80%;
     }
 }
 </style>

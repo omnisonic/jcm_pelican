@@ -1,7 +1,7 @@
 Title: Live Music and Entertainment for Events in Santa Fe & San Diego
 Menu_Title: Events
 order: 5
-Description: Professional guitarist John Clarke available for events in Santa Fe (Summer & Fall) and San Diego (Winter). Classical, Latin, and contemporary guitar performance.
+Description: Professional guitarist John H. Clarke available for events in Santa Fe (Summer & Fall) and San Diego (Winter). Classical, Latin, and contemporary guitar performance.
 
 ---
 
@@ -11,9 +11,9 @@ Elevating events with classical, latin, and contemporary guitar music
 {: .hero-text}
 
 <div class="photos">
-    <img src="{static}/images/art-and-wine-festival.jpg" alt="John Clarke and Josh Mellinger Playing Music at Art and Wine Festival" />
-    <img src="{static}/images/backyard-party.jpeg" alt="John Clarke performing at backyard party in Palo Alto, CA" />
-    <img src="{static}/images/wedding-guitar-1.jpg" alt="John Clarke playing guitar for wedding in Santa Cruz Mountains" />
+    <img src="{static}/images/art-and-wine-festival.jpg" alt="John H. Clarke and Josh Mellinger Playing Music at Art and Wine Festival" />
+    <img src="{static}/images/backyard-party.jpeg" alt="John H. Clarke performing at backyard party in Palo Alto, CA" />
+    <img src="{static}/images/wedding-guitar-1.jpg" alt="John H. Clarke playing guitar for wedding in Santa Cruz Mountains" />
 </div>
 
 ## Current Availability {.centered}
@@ -153,6 +153,51 @@ Ready to enhance your event with live music? Get in touch today.
     width: 95% !important;
     max-width: 600px !important;
     margin: 20px auto !important;
+    border: thin solid gray !important;
+    border-radius: 5px !important;
+    padding: 20px !important;
+    background: transparent !important;
+}
+
+#gigsalad_quote_widget input,
+#gigsalad_quote_widget textarea,
+#gigsalad_quote_widget select {
+    background: var(--form-input-bg) !important;
+    color: var(--form-input-text) !important;
+    border: 1px solid var(--form-input-border) !important;
+    border-radius: 4px !important;
+}
+
+#gigsalad_quote_widget input:focus,
+#gigsalad_quote_widget textarea:focus,
+#gigsalad_quote_widget select:focus {
+    outline: none !important;
+    border-color: var(--form-focus-border) !important;
+    box-shadow: 0 0 5px var(--form-shadow) !important;
+}
+
+#gigsalad_quote_widget button {
+    background: var(--form-submit-bg) !important;
+    color: var(--form-submit-text) !important;
+    border: none !important;
+    border-radius: 4px !important;
+    transition: opacity 0.3s ease !important;
+}
+
+#gigsalad_quote_widget button:hover {
+    opacity: 0.9 !important;
+}
+
+/* Override GigSalad's default text colors for dark mode */
+@media (prefers-color-scheme: dark) {
+    #gigsalad_quote_widget {
+        color: var(--form-text) !important;
+    }
+    
+    #gigsalad_quote_widget label,
+    #gigsalad_quote_widget .gs-required {
+        color: var(--form-text) !important;
+    }
 }
 
 .centered-list {
