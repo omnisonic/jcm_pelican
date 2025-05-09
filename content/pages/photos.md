@@ -1,4 +1,5 @@
-Title: Photos - Guitarist John H. Clarke
+Title: Photos of John H. Clarke
+slug: photos-guitarist-john-h-clarke
 Menu_Title: Photos
 order: 2
 Description: View John H. Clarke performing classical and contemporary guitar at weddings, festivals, and events in Santa Fe and San Diego.
@@ -8,37 +9,10 @@ Description: View John H. Clarke performing classical and contemporary guitar at
 ### Promotional & Event Photos {.centered}
 
 <div class="centered-content">
-    <p class="centered-text">Moments captured from live performances, photo shoots, and special events.</p>
+    <p class="photo-page-text">Moments captured from live performances, photo shoots, and special events.</p>
 </div>
 
-<style>
-  .photos {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-  }
-  .photos img {
-    border-radius: 10px;
-    width: 48%;
-    margin-bottom: 1rem;
-    height: auto; /* Allow the height to adjust proportionally */
-    aspect-ratio: 4 / 3; /* Set your desired aspect ratio */
-    object-fit: cover; /* Ensure the image covers the container */
-  }
-
-
-
-.photos img:hover {
-    transform: scale(1.02);
-    transition: transform 0.3s ease;
-}
-
-.centered-text {
-    text-align: center;
-}
-</style>
-
-<div class="photos">
+<div class="photo-grid">
     <img src="{static}/images/artandwine4.jpg" alt="Playing guitar at Art and Wine Festival in Santa Fe" />
     <img src="{static}/images/20250304_balboa-park.jpeg" alt="Classical guitar performance at Balboa Park Botanical Gardens" />
     <img src="{static}/images/wedding-2.jpg" alt="Wedding ceremony music in San Diego" />

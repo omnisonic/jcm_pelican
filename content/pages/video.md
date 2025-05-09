@@ -1,9 +1,10 @@
-Title: Guitar Performance Videos by John H. Clarke
+Title: Guitar Performance Videos
+slug: guitar-performance-videos-by-john-h-clarke
 Menu_Title: Video
 order: 4
 Description: Watch John H. Clarke perform original compositions and classical guitar pieces. Features performances of Pier Loop, Spanish Romance, and original works recorded in San Francisco and San Diego.
 
-## Featured Videos {.centered}
+## Featured Videos from Youtube  {.centered}
 
 A sample of my guitar performances and compositions. 
 {: .hero-text}
@@ -91,48 +92,3 @@ This song gets its name from the fact that I have strange ways of naming songs. 
 <div class="video-description">
 This was a fantastic location for a street performance. Thanks San Diego, California for the opportunity to play on the gorgeous beach! Thanks to the videographer for helping to preserve the memory.
 </div>
-
-<style>
-.centered {
-    text-align: center;
-    margin: 2em auto;
-}
-
-.hero-text {
-    text-align: center;
-    font-size: 1.2em;
-    margin: 1em auto 2em;
-    max-width: 800px;
-}
-
-.video-container {
-    position: relative;
-    padding-bottom: 56.25%; /* 16:9 aspect ratio */
-    height: 0;
-    overflow: hidden;
-    max-width: 100%;
-    margin: 2em auto;
-}
-
-.video-container iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    border-radius: 8px;
-}
-
-.video-description {
-    max-width: 800px;
-    margin: 1.5em auto 3em;
-    padding: 0 1em;
-    line-height: 1.6;
-}
-
-@media screen and (max-width: 768px) {
-    .video-description {
-        padding: 0 1.5em;
-    }
-}
-</style>

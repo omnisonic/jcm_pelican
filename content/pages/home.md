@@ -1,5 +1,5 @@
-Title: John H. Clarke - Latin & Classical Guitar Performer and Composer
-URL: 
+Title: Latin Classical Flamenco-Fusion Guitar Performer and Composer
+URL: /
 order: 1
 save_as: index.html
 HeaderImage: {static}/theme/images/header-2_cropped.jpg
@@ -31,57 +31,3 @@ Hello! I'm John H. Clarke, a professional guitarist with over 25 years of experi
 <div class="music-player">
 <iframe style="border: 0; width: 100%; max-width: 450px; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=324672664/size=small/bgcol=ffffff/linkcol=0687f5/track=2056279888/transparent=true/" seamless><a href="https://johnhclarke.bandcamp.com/album/waterfront">Waterfront by John H. Clarke</a></iframe>
 </div>
-
-<style>
-.centered {
-    text-align: center;
-    margin: 2em auto;
-}
-
-.hero-text {
-    text-align: center;
-    font-size: 1.2em;
-    margin: 1em auto 2em;
-    max-width: 800px;
-    line-height: 1.6;
-}
-
-.music-player {
-    display: flex;
-    justify-content: center;
-    padding: 20px 0;
-    margin: 2em auto;
-}
-
-.image-container {
-    overflow: hidden;
-    border-radius: 8px;
-    margin: 2em auto;
-}
-
-.image-container img {
-    width: 100%;
-    max-width: 1200px;
-    height: auto;
-    display: block;
-    transform: scale(1);
-    transition: transform 5s ease;
-}
-
-.image-container:hover img {
-    transform: scale(1.15);
-}
-
-.image-container figcaption {
-    margin-top: 0.5em;
-    font-style: italic;
-    color: #666;
-    text-align: center;
-}
-
-@media screen and (max-width: 768px) {
-    .hero-text {
-        padding: 0 1.5em;
-    }
-}
-</style>

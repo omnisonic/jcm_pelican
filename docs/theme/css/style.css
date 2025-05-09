@@ -35,9 +35,12 @@ margin-bottom: 2em;
 
 }
 
-h1, h2 {
-    text-align: center;
+h1 {
+    text-align: justify;
+    text-align-last: justify;
     margin: 15px;
+    letter-spacing: 0.1em;  /* Adds space between characters */
+
 }
 
 /* .hero-text {
@@ -52,25 +55,7 @@ h1, h2 {
 a:link    { color: black; text-decoration: underline;      }
 a:hover   { color: green; text-decoration:inherit; }
 a:visited { color: blue;                             }
-/*
-h1 a { color: inherit !important }
-h2 a { color: inherit !important }
-h3 a { color: inherit !important }
-h4 a { color: inherit !important }
-h5 a { color: inherit !important }
-h6 a { color: inherit !important } */
 
-/* #menu li {
-    display: inline list-item;
-} */
-
-/* #post-list {
-    margin-bottom: 1em;
-    margin-top: 1em;
-} */
-/* p {
-  padding: 0 100px;
-} */
 pre {
     margin: 2em 1em 2em 4em;
 }
@@ -165,4 +150,474 @@ article {
   /*#banner {*/
     /*color: #111;*/
   /*}*/
+}
+
+/* Styles moved from home.md */
+.centered {
+    text-align: center;
+    margin: 2em auto;
+}
+
+.hero-text {
+    text-align: center;
+    font-size: 1.2em;
+    margin: 1em auto 2em;
+    max-width: 800px;
+    line-height: 1.6;
+}
+
+.music-player {
+    display: flex;
+    justify-content: center;
+    padding: 20px 0;
+    margin: 2em auto;
+}
+
+.image-container {
+    overflow: hidden;
+    border-radius: 8px;
+    margin: 2em auto;
+}
+
+.image-container img {
+    width: 100%;
+    max-width: 1200px;
+    height: auto;
+    display: block;
+    transform: scale(1);
+    transition: transform 5s ease;
+}
+
+.image-container:hover img {
+    transform: scale(1.15);
+}
+
+.image-container figcaption {
+    margin-top: 0.5em;
+    font-style: italic;
+    color: #666;
+    text-align: center;
+}
+
+@media screen and (max-width: 768px) {
+    .hero-text {
+        padding: 0 1.5em;
+    }
+}
+
+/* Social Media Icons */
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
+.fa-reddit {
+  background: #ff5700;
+  color: white;
+}
+
+.fa-rss {
+  background: #ff6600;
+  color: white;
+}
+
+/* Contact Form Styles */
+.centered {
+    text-align: center;
+    margin: 2em 0;
+    font-size: 1.5em;
+}
+
+#fs-frm {
+    width: 90%;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background: transparent;
+    border: thin solid gray;
+    border-radius: 5px;
+}
+
+#fs-frm fieldset {
+    border: none;
+    padding: 0;
+}
+
+#fs-frm input,
+#fs-frm textarea {
+    width: 100%;
+    margin: 10px 0;
+    padding: 12px;
+    border: 1px solid var(--form-input-border);
+    border-radius: 4px;
+    font-size: 16px;
+    background: var(--form-input-bg);
+    color: var(--form-input-text);
+}
+
+#fs-frm input:focus,
+#fs-frm textarea:focus {
+    outline: none;
+    border-color: var(--form-focus-border);
+    box-shadow: 0 0 5px var(--form-shadow);
+}
+
+#fs-frm [type="submit"] {
+    background: var(--form-submit-bg);
+    color: var(--form-submit-text);
+    padding: 12px 24px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 10px;
+    transition: background-color 0.3s ease;
+}
+
+#fs-frm [type="submit"]:hover {
+    opacity: 0.9;
+}
+
+@media screen and (max-width: 600px) {
+    #fs-frm {
+        width: 95%;
+        padding: 15px;
+    }
+    
+    #fs-frm input,
+    #fs-frm textarea {
+        font-size: 16px;
+        padding: 10px;
+    }
+}
+
+/* Contact Page Specific Styles */
+.centered-content {
+    text-align: center;
+    max-width: 1000px;
+    margin: 2em auto;
+    padding: 0 1em;
+}
+
+.centered-content img {
+    width: 50%;
+    height: auto;
+    border-radius: 8px;
+}
+
+@media (max-width: 768px) {
+    .centered-content img {
+        width: 80%;
+    }
+}
+
+/* Events Page Styles */
+.availability-text {
+    text-align: center;
+    margin: 1em auto;
+    max-width: 600px;
+}
+
+.services-list {
+    display: table;
+    margin: 2em auto;
+    max-width: 600px;
+    list-style-type: disc;
+    text-align: left;
+    padding-left: 2em;
+}
+
+.services-list li {
+    margin: 0.5em 0;
+    line-height: 1.6;
+}
+
+.event-services-list {
+    list-style-position: inside;
+    text-align: center;
+    padding: 0;
+    margin: 2em auto;
+}
+
+.cta-text {
+    text-align: center;
+    font-size: 1.2em;
+    margin: 2em auto;
+    max-width: 800px;
+}
+
+/* General Photos Styles */
+.photos {
+    width: 95%;
+    max-width: 1200px;
+    margin: 0 auto 3em;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+}
+
+.photos img {
+    flex: 1;
+    min-width: 300px;
+    max-width: 380px;
+    height: 250px;
+    border-radius: 10px;
+    object-fit: cover;
+    transition: transform 0.3s ease;
+}
+
+.photos img:hover {
+    transform: scale(1.02);
+}
+
+/* Photos Page Specific Styles */
+.photo-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.photo-grid img {
+    border-radius: 10px;
+    width: 48%;
+    margin-bottom: 1rem;
+    height: auto;
+    aspect-ratio: 4 / 3;
+    object-fit: cover;
+}
+
+.photo-grid img:hover {
+    transform: scale(1.02);
+    transition: transform 0.3s ease;
+}
+
+.photo-page-text {
+    text-align: center;
+}
+
+/* GigSalad Widget Styles */
+#gigsalad_quote_widget {
+    width: 95% !important;
+    max-width: 600px !important;
+    margin: 20px auto !important;
+    border: thin solid gray !important;
+    border-radius: 5px !important;
+    padding: 20px !important;
+    background: transparent !important;
+}
+
+#gigsalad_quote_widget input,
+#gigsalad_quote_widget textarea,
+#gigsalad_quote_widget select {
+    background: var(--form-input-bg) !important;
+    color: var(--form-input-text) !important;
+    border: 1px solid var(--form-input-border) !important;
+    border-radius: 4px !important;
+}
+
+#gigsalad_quote_widget input:focus,
+#gigsalad_quote_widget textarea:focus,
+#gigsalad_quote_widget select:focus {
+    outline: none !important;
+    border-color: var(--form-focus-border) !important;
+    box-shadow: 0 0 5px var(--form-shadow) !important;
+}
+
+#gigsalad_quote_widget button {
+    background: var(--form-submit-bg) !important;
+    color: var(--form-submit-text) !important;
+    border: none !important;
+    border-radius: 4px !important;
+    transition: opacity 0.3s ease !important;
+}
+
+#gigsalad_quote_widget button:hover {
+    opacity: 0.9 !important;
+}
+
+@media (prefers-color-scheme: dark) {
+    #gigsalad_quote_widget {
+        color: var(--form-text) !important;
+    }
+    
+    #gigsalad_quote_widget label,
+    #gigsalad_quote_widget .gs-required {
+        color: var(--form-text) !important;
+    }
+}
+
+/* Notation Page Styles */
+.composition-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 20px;
+    max-width: 1200px;
+    margin: 2em auto;
+    padding: 0 1em;
+}
+
+.grid-item {
+    text-align: center;
+    transition: transform 0.2s ease;
+}
+
+.grid-item:hover {
+    transform: translateY(-5px);
+}
+
+.grid-item img {
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.grid-item a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.grid-item div {
+    margin-top: 0.5em;
+    font-weight: 500;
+}
+
+/* Video Page Styles */
+.video-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+    margin: 2em auto;
+}
+
+.video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border-radius: 8px;
+}
+
+.video-description {
+    max-width: 800px;
+    margin: 1.5em auto 3em;
+    padding: 0 1em;
+    line-height: 1.6;
+}
+
+/* Lessons Page Styles */
+.lessons-image {
+    width: 100%;
+    max-width: 600px;
+    border: 2px solid #0056b3;
+    border-radius: 10px;
+    margin: 2em 0;
+}
+
+.lessons-features {
+    list-style: none;
+    padding: 0;
+    margin: 2em auto;
+    max-width: 400px;
+    text-align: left;
+}
+
+.lessons-features li {
+    margin: 0.5em 0;
+    padding-left: 1.5em;
+    position: relative;
+}
+
+.lessons-features li:before {
+    content: "•";
+    position: absolute;
+    left: 0;
+    color: #0056b3;
+}
+
+/* Recordings Page Styles */
+.bandcamp-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 1em;
+}
+
+.latest-releases {
+    margin-bottom: 3em;
+}
+
+.albums-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+    gap: 2em;
+    margin-top: 2em;
+}
+
+.albums-grid iframe {
+    width: 100%;
+    height: 786px;
+}
+
+.player-wrapper {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.player-wrapper iframe {
+    margin-bottom: 1em;
+}
+
+@media (max-width: 768px) {
+    .albums-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+/* Responsive Styles */
+@media screen and (max-width: 768px) {
+    .composition-grid {
+        gap: 15px;
+        padding: 0 0.5em;
+    }
+    
+    .video-description {
+        padding: 0 1.5em;
+    }
+    
+    .lessons-image {
+        max-width: 100%;
+    }
 }

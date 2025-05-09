@@ -1,4 +1,5 @@
-Title: Guitar Tabs & Sheet Music Notation | Original Classical Guitar Compositions by John H. Clarke
+Title: Official Tabs & Sheet Music
+slug: guitar-tabs-sheet-music-notation-original-classical-guitar-compositions-by-john-h-clarke
 Menu_Title: Sheet Music
 order: 7
 Description: Download classical and Latin guitar sheet music and tablature. Original compositions by John H. Clarke available as PDF downloads, including Pier Loop, Aurora Borealis, and more.
@@ -7,68 +8,6 @@ Description: Download classical and Latin guitar sheet music and tablature. Orig
 
 Browse and download guitar notation and tablature for my original compositions. Each piece comes as a detailed PDF with both standard notation and TAB, making them accessible for players of all skill levels.
 {: .hero-text}
-
-<style>
-.centered {
-    text-align: center;
-    margin: 2em auto;
-}
-
-.hero-text {
-    text-align: center;
-    font-size: 1.2em;
-    margin: 1em auto 2em;
-    max-width: 800px;
-    line-height: 1.6;
-}
-
-.composition-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    gap: 20px;
-    max-width: 1200px;
-    margin: 2em auto;
-    padding: 0 1em;
-}
-
-.grid-item {
-    text-align: center;
-    transition: transform 0.2s ease;
-}
-
-.grid-item:hover {
-    transform: translateY(-5px);
-}
-
-.grid-item img {
-    width: 100%;
-    max-width: 300px;
-    height: auto;
-    border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-}
-
-.grid-item a {
-    text-decoration: none;
-    color: inherit;
-}
-
-.grid-item div {
-    margin-top: 0.5em;
-    font-weight: 500;
-}
-
-@media screen and (max-width: 768px) {
-    .composition-grid {
-        gap: 15px;
-        padding: 0 0.5em;
-    }
-    
-    .hero-text {
-        padding: 0 1em;
-    }
-}
-</style>
 
 <div class="composition-grid">
     <div class="grid-item">

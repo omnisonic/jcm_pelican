@@ -1,4 +1,5 @@
-Title: Guitar Albums and Recordings by John H. Clarke
+Title: Guitar Albums and Recordings
+slug: guitar-albums-and-recordings-by-john-h-clarke
 Menu_Title: Recordings
 order: 3
 Description: Listen to John H. Clarke's original guitar compositions and albums, featuring classical, Spanish, and contemporary acoustic guitar music available on major platforms.
@@ -38,53 +39,3 @@ Description: Listen to John H. Clarke's original guitar compositions and albums,
         <iframe style="border: 0; width: 100%; height: 786px;" src="https://bandcamp.com/EmbeddedPlayer/album=4272421559/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://johnhclarke.bandcamp.com/album/classical-spanish-guitar">Classical &amp; Spanish Guitar by John H. Clarke</a></iframe>
     </div>
 </div>
-
-<style>
-.centered-content {
-    text-align: center;
-    max-width: 1000px;
-    margin: 2em auto;
-    padding: 0 1em;
-}
-
-.centered {
-    text-align: center;
-}
-
-.bandcamp-container {
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 0 1em;
-}
-
-.latest-releases {
-    margin-bottom: 3em;
-}
-
-.albums-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
-    gap: 2em;
-    margin-top: 2em;
-}
-
-.albums-grid iframe {
-    width: 100%;
-    height: 786px;
-}
-
-.player-wrapper {
-    max-width: 600px;
-    margin: 0 auto;
-}
-
-.player-wrapper iframe {
-    margin-bottom: 1em;
-}
-
-@media (max-width: 768px) {
-    .albums-grid {
-        grid-template-columns: 1fr;
-    }
-}
-</style>
