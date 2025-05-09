@@ -10,10 +10,19 @@ Description: Professional guitarist John H. Clarke available for events in Santa
 Elevating events with classical, latin, and contemporary guitar music
 {: .hero-text}
 
-<div class="photos">
-    <img src="{static}/images/art-and-wine-festival.jpg" alt="John H. Clarke and Josh Mellinger Playing Music at Art and Wine Festival" />
-    <img src="{static}/images/backyard-party.jpeg" alt="John H. Clarke performing at backyard party in Palo Alto, CA" />
-    <img src="{static}/images/wedding-guitar-1.jpg" alt="John H. Clarke playing guitar for wedding in Santa Cruz Mountains" />
+<div class="photo-grid">
+    <picture>
+        <source srcset="/images/art-and-wine-festival.webp" type="image/webp">
+        <img src="/images/art-and-wine-festival.jpg" alt="John H. Clarke and Josh Mellinger Playing Music at Art and Wine Festival" />
+    </picture>
+    <picture>
+        <source srcset="/images/backyard-party.webp" type="image/webp">
+        <img src="/images/backyard-party.jpeg" alt="John H. Clarke performing at backyard party in Palo Alto, CA" />
+    </picture>
+    <picture>
+        <source srcset="/images/wedding-guitar-1.webp" type="image/webp">
+        <img src="/images/wedding-guitar-1.jpg" alt="John H. Clarke playing guitar for wedding in Santa Cruz Mountains" />
+    </picture>
 </div>
 
 ## Current Availability {.centered}

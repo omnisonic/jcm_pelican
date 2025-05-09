@@ -2,8 +2,10 @@ Title: Latin Classical Flamenco-Fusion Guitar Performer and Composer
 URL: /
 order: 1
 save_as: index.html
-HeaderImage: {static}/theme/images/header-2_cropped.jpg
+HeaderImage: /theme/images/header-2_cropped.jpg
 Description: Professional guitarist John H. Clarke specializes in Latin and classical guitar performances. Over 25 years of experience performing at events, venues, and festivals across California and New Mexico.
+
+---
 
 ## Welcome to My Musical Journey {.centered}
 
@@ -15,7 +17,10 @@ Hello! I'm John H. Clarke, a professional guitarist with over 25 years of experi
 </div>
 
 <figure class="image-container">
-    <img src="{static}/images/artandwine2.jpg" alt="John Clarke and Josh Mellinger performing Latin guitar music at Art and Wine Festival" />
+    <picture>
+        <source srcset="/images/artandwine2.webp" type="image/webp">
+        <img src="/images/artandwine2.jpg" alt="John Clarke and Josh Mellinger performing Latin guitar music at Art and Wine Festival" />
+    </picture>
     <figcaption>Live performance at the Art and Wine Festival</figcaption>
 </figure>
 
@@ -24,7 +29,10 @@ Hello! I'm John H. Clarke, a professional guitarist with over 25 years of experi
 </div>
 
 <figure class="image-container">
-    <img src="{static}/images/pier-39.jpg" alt="John Clarke performing guitar music at Pier 39 San Francisco" />
+    <picture>
+        <source srcset="/images/pier-39.webp" type="image/webp">
+        <img src="/images/pier-39.jpg" alt="John Clarke performing guitar music at Pier 39 San Francisco" />
+    </picture>
     <figcaption>Entrance Plaza Performance at Pier 39, San Francisco</figcaption>
 </figure>
 

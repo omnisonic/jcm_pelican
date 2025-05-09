@@ -13,14 +13,44 @@ Description: View John H. Clarke performing classical and contemporary guitar at
 </div>
 
 <div class="photo-grid">
-    <img src="{static}/images/artandwine4.jpg" width="50%" alt="John Clarke at Art and Wine Festival" />
-    <img src="{static}/images/20250304_balboa-park.jpeg" width="50%" alt="John Clarke playing guitar Botanical Gardens" />
-    <img src="{static}/images/wedding-2.jpg" width="50%" alt="John Clarke playing guitar at a wedding" />
-    <img src="{static}/images/guitar-over-shoulder.png" width="50%" alt="John Clarke promo photo" />
-    <img src="{static}/images/artandwine3.jpg" width="50%" alt="John Clarke at Art and Wine Festival" />
-    <img src="{static}/images/wedding5.jpg" width="50%" alt="John Clarke at Wedding" />
-    <img src="{static}/images/photo-with-fan-pier39.jpg" width="50%" alt="John Clarke with fan at pier 39" />
-    <img src="{static}/images/trio-spot-12.jpg" width="50%" alt="John Clarke with trio in San Fransisco" />
-    <img src="{static}/images/ag-promo1.jpg" width="50%" alt="Acoustik Gutiar Album photo" />
-    <img src="{static}/images/Trio-bulb-instr-color-bkgd-bw.jpg" width="50%" alt="John Clarke with trio Albany bulb" />
+    <picture>
+        <source srcset="/images/artandwine4.webp" type="image/webp">
+        <img src="/images/artandwine4.jpg" width="50%" alt="John Clarke at Art and Wine Festival" />
+    </picture>
+    <picture>
+        <source srcset="/images/20250304_balboa-park.webp" type="image/webp">
+        <img src="/images/20250304_balboa-park.jpeg" width="50%" alt="John Clarke playing guitar Botanical Gardens" />
+    </picture>
+    <picture>
+        <source srcset="/images/wedding-2.webp" type="image/webp">
+        <img src="/images/wedding-2.jpg" width="50%" alt="John Clarke playing guitar at a wedding" />
+    </picture>
+    <picture>
+        <source srcset="/images/guitar-over-shoulder.webp" type="image/webp">
+        <img src="/images/guitar-over-shoulder.png" width="50%" alt="John Clarke promo photo" />
+    </picture>
+    <picture>
+        <source srcset="/images/artandwine3.webp" type="image/webp">
+        <img src="/images/artandwine3.jpg" width="50%" alt="John Clarke at Art and Wine Festival" />
+    </picture>
+    <picture>
+        <source srcset="/images/wedding5.webp" type="image/webp">
+        <img src="/images/wedding5.jpg" width="50%" alt="John Clarke at Wedding" />
+    </picture>
+    <picture>
+        <source srcset="/images/photo-with-fan-pier39.webp" type="image/webp">
+        <img src="/images/photo-with-fan-pier39.jpg" width="50%" alt="John Clarke with fan at pier 39" />
+    </picture>
+    <picture>
+        <source srcset="/images/trio-spot-12.webp" type="image/webp">
+        <img src="/images/trio-spot-12.jpg" width="50%" alt="John Clarke with trio in San Fransisco" />
+    </picture>
+    <picture>
+        <source srcset="/images/ag-promo1.webp" type="image/webp">
+        <img src="/images/ag-promo1.jpg" width="50%" alt="Acoustik Gutiar Album photo" />
+    </picture>
+    <picture>
+        <source srcset="/images/Trio-bulb-instr-color-bkgd-bw.webp" type="image/webp">
+        <img src="/images/Trio-bulb-instr-color-bkgd-bw.jpg" width="50%" alt="John Clarke with trio Albany bulb" />
+    </picture>
 </div>

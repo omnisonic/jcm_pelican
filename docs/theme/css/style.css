@@ -373,55 +373,38 @@ article {
     max-width: 800px;
 }
 
-/* General Photos Styles */
-.photos {
-    width: 95%;
-    max-width: 1200px;
-    margin: 0 auto 3em;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 20px;
-    padding: 20px;
-}
-
-.photos img {
-    flex: 1;
-    min-width: 300px;
-    max-width: 380px;
-    height: 250px;
-    border-radius: 10px;
-    object-fit: cover;
-    transition: transform 0.3s ease;
-}
-
-.photos img:hover {
-    transform: scale(1.02);
-}
-
-/* Photos Page Specific Styles */
+/* Photos and Photo Grid Styles */
+.photos,
 .photo-grid {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
+    width: 95% !important;
+    max-width: 1200px;
+    margin: 0 auto 2rem !important;
+    display: flex !important;
+    flex-wrap: wrap !important;
+    justify-content: center !important;
+    gap: 1.5rem;
+    padding: 1rem;
 }
 
-.photo-grid img {
-    border-radius: 10px;
-    width: 48%;
-    margin-bottom: 1rem;
-    height: auto;
-    aspect-ratio: 4 / 3;
-    object-fit: cover;
+.photos picture,
+.photo-grid picture {
+    flex: 1 1 300px !important;
+    max-width: 380px !important;
+    min-width: 280px !important;
+    width: auto !important;
+    margin: 0 !important;
+    padding: 0 !important;
 }
 
-.photo-grid img:hover {
-    transform: scale(1.02);
+.photos picture img,
+.photo-grid picture img {
+    width: 100% !important;
+    height: 250px !important;
+    border-radius: 10px !important;
+    object-fit: cover !important;
     transition: transform 0.3s ease;
-}
-
-.photo-page-text {
-    text-align: center;
+    display: block !important;
+    margin: 0 !important;
 }
 
 /* GigSalad Widget Styles */
@@ -600,11 +583,11 @@ article {
     margin-bottom: 1em;
 }
 
-@media (max-width: 768px) {
+/* @media (max-width: 768px) {
     .albums-grid {
         grid-template-columns: 1fr;
     }
-}
+} */
 
 /* Responsive Styles */
 @media screen and (max-width: 768px) {
