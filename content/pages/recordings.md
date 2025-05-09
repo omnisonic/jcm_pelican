@@ -3,6 +3,7 @@ slug: guitar-albums-and-recordings-by-john-h-clarke
 Menu_Title: Recordings
 order: 3
 Description: Listen to John H. Clarke's original guitar compositions and albums, featuring classical, Spanish, and contemporary acoustic guitar music available on major platforms.
+MetaDescription: Listen to John H. Clarke's original guitar compositions and albums, featuring classical, Spanish, and contemporary acoustic guitar music available on major platforms.
 
 ---
 

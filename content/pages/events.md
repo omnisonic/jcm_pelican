@@ -2,6 +2,7 @@ Title: Live Music and Entertainment for Events in Santa Fe & San Diego
 Menu_Title: Events
 order: 5
 Description: Professional guitarist John H. Clarke available for events in Santa Fe (Summer & Fall) and San Diego (Winter). Classical, Latin, and contemporary guitar performance.
+MetaDescription: Professional guitarist John H. Clarke available for events in Santa Fe (Summer & Fall) and San Diego (Winter). Classical, Latin, and contemporary guitar performance.
 
 ---
 

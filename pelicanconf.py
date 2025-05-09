@@ -47,6 +47,9 @@ DEFAULT_OG_IMAGE = 'https://johnclarkemusic.com' + '/theme/images/header-2_cropp
 DEFAULT_OG_URL = 'https://johnclarkemusic.com'
 DEFAULT_OG_TYPE = 'website'
 
+# Default description for meta tags
+DEFAULT_DESCRIPTION = 'Professional guitarist John H. Clarke specializes in Latin and classical guitar performances, available for events in Santa Fe and San Diego.'
+
 DISPLAY_PAGES_ON_MENU = False
 MENUITEMS = [
     ('Events', '/pages/live-music-and-entertainment-for-events-in-santa-fe-san-diego.html'),

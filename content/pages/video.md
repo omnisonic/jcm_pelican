@@ -3,6 +3,7 @@ slug: guitar-performance-videos-by-john-h-clarke
 Menu_Title: Video
 order: 4
 Description: Watch John H. Clarke perform original compositions and classical guitar pieces. Features performances of Pier Loop, Spanish Romance, and original works recorded in San Francisco and San Diego.
+MetaDescription: Watch John H. Clarke perform original compositions and classical guitar pieces. Features performances of Pier Loop, Spanish Romance, and original works recorded in San Francisco and San Diego.
 
 ---
 

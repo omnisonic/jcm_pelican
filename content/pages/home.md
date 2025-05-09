@@ -4,6 +4,7 @@ order: 1
 save_as: index.html
 HeaderImage: /theme/images/header-2_cropped.jpg
 Description: Professional guitarist John H. Clarke specializes in Latin and classical guitar performances. Over 25 years of experience performing at events, venues, and festivals across California and New Mexico.
+MetaDescription: Professional guitarist John H. Clarke specializes in Latin and classical guitar performances. Over 25 years of experience performing at events, venues, and festivals across California and New Mexico.
 
 ---
 

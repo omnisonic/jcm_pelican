@@ -3,6 +3,7 @@ slug: guitar-lessons-with-john-h-clarke
 Menu_Title: Lessons
 order: 6
 Description: Professional guitar instruction in Santa Fe, NM and online. Classical, Spanish, and contemporary guitar lessons for all skill levels by experienced instructor John H. Clarke.
+MetaDescription: Professional guitar instruction in Santa Fe, NM and online. Classical, Spanish, and contemporary guitar lessons for all skill levels by experienced instructor John H. Clarke.
 
 ---
 

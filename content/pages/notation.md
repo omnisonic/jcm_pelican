@@ -3,6 +3,7 @@ slug: guitar-tabs-sheet-music-notation-original-classical-guitar-compositions-by
 Menu_Title: Sheet Music
 order: 7
 Description: Download classical and Latin guitar sheet music and tablature. Original compositions by John H. Clarke available as PDF downloads, including Pier Loop, Aurora Borealis, and more.
+MetaDescription: Download classical and Latin guitar sheet music and tablature. Original compositions by John H. Clarke available as PDF downloads, including Pier Loop, Aurora Borealis, and more.
 
 ---
 
