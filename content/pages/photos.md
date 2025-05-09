@@ -13,10 +13,6 @@ Description: View John H. Clarke performing classical and contemporary guitar at
 </div>
 
 <div class="photo-grid">
-    <img src="{static}/images/artandwine4.jpg" alt="Playing guitar at Art and Wine Festival in Santa Fe" />
-    <img src="{static}/images/20250304_balboa-park.jpeg" alt="Classical guitar performance at Balboa Park Botanical Gardens" />
-    <img src="{static}/images/wedding-2.jpg" alt="Wedding ceremony music in San Diego" />
-    <img src="{static}/images/guitar-over-shoulder.png" alt="Portrait with classical guitar" />
     <img src="{static}/images/artandwine4.jpg" width="50%" alt="John Clarke at Art and Wine Festival" />
     <img src="{static}/images/20250304_balboa-park.jpeg" width="50%" alt="John Clarke playing guitar Botanical Gardens" />
     <img src="{static}/images/wedding-2.jpg" width="50%" alt="John Clarke playing guitar at a wedding" />
