@@ -30,7 +30,7 @@
   <meta name="twitter:image" content="{% block twitter_image %}{{ DEFAULT_OG_IMAGE }}{% endblock %}">
 
   <!-- Canonical URL -->
-  <link rel="canonical" href="{{ SITEURL }}/{{ output_file }}">
+  <link rel="canonical" href="{% if SITEURL %}{{ SITEURL }}{% endif %}/{% if output_file != 'index.html' %}{{ output_file }}{% endif %}">
 
   <!-- Additional SEO Meta -->
   <meta name="keywords" content="classical guitar, latin guitar, guitar performer, live music, {{ self.title() }}, Santa Fe musician, San Diego guitarist">
