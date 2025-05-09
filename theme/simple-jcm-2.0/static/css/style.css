@@ -206,12 +206,19 @@ article {
 }
 
 /* Social Media Icons */
+
+.social-icons {
+  display: flex;
+  justify-content: center;
+  margin: 2em;
+}
 .fa {
   padding: 20px;
-  font-size: 30px;
+  font-size: 40px!important;
   text-align: center;
   text-decoration: none;
   margin: 5px 2px;
+  border-radius: 5px;
 }
 
 .fa:hover {
@@ -456,6 +463,21 @@ article {
     #gigsalad_quote_widget .gs-required {
         color: var(--form-text) !important;
     }
+}
+
+
+.gigsalad-button {
+    margin: 2em;
+    width: 250px;
+}
+
+.footer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; 
+    align-items: center; 
+    margin: 2em;
+
 }
 
 /* Notation Page Styles */

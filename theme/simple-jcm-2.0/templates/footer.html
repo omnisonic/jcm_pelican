@@ -1,15 +1,14 @@
-<div style="display: flex; 
-            flex-wrap: wrap;
-            justify-content: center; 
-            align-items: center; 
-            gap: 20px;">
-  <a href="https://www.gigsalad.com/john_h_clarke_san_diego"><img src="https://cress.gigsalad.com/images/svg/standalone/promokit-links/book-securely/book-securely--dark.svg" alt="Hire me on GigSalad" height="80" width="250"></a>
+<div class="footer">
+    <div class="gigsalad-button">
+  <a href="https://www.gigsalad.com/john_h_clarke_san_diego"><img src="https://cress.gigsalad.com/images/svg/standalone/promokit-links/book-securely/book-securely--dark.svg" alt="Hire me on GigSalad" ></a></div>
+
 
 <!-- Add font awesome icons -->
-  <a href="https://bsky.app/profile/johnclarkemusic.bsky.social" class="fa fa-twitter" style="border-radius: 5px;"></a>
-  <a href="https://youtube.com/johnclarkemusic/" target="_blank" class="fa fa-youtube" style="border-radius: 5px;"></a>
 
-  <hr>
+<div class="social-icons">
+  <a href="https://bsky.app/profile/johnclarkemusic.bsky.social" class="fa fa-twitter" aria-label="Bluesky Profile"></a>
+  <a href="https://youtube.com/johnclarkemusic/" target="_blank" class="fa fa-youtube" aria-label="YouTube Channel"></a>
+  <hr></div>
   <div>
     {% for title, link in MENUITEMS %}
         <a href="{{ SITEURL }}{{ link }}" class="footer-nav-link">{{ title }}</a>
