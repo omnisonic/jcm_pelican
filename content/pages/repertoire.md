@@ -8,7 +8,7 @@ MetaDescription: Explore John H. Clarke's extensive guitar repertoire including 
 
 
 <h3 style="text-align: center; margin-top: 2em; margin-bottom: 1em;">ORIGINAL COMPOSITIONS</h3>
-<ul style="margin: 0 auto; width: fit-content;">
+<ul style="text-align: center; list-style-position: inside;">
     <li>A Little Song</li>
     <li>A Walk To The Lake</li>
     <li>Aguila Cosmica</li>
@@ -33,7 +33,7 @@ MetaDescription: Explore John H. Clarke's extensive guitar repertoire including 
 
 
 <h3 style="text-align: center; margin-top: 2em; margin-bottom: 1em;">CLASSICAL REPERTOIRE</h3>
-<ul style="margin: 0 auto; width: fit-content;">
+<ul style="text-align: center; list-style-position: inside;">
     <li>Asturias Leyenda by Albeniz</li>
     <li>Bach Minuet In G</li>
     <li>Bach Prelude Well Tempered</li>
@@ -57,7 +57,7 @@ MetaDescription: Explore John H. Clarke's extensive guitar repertoire including 
 </ul>
 
 <h3 style="text-align: center; margin-top: 2em; margin-bottom: 1em;">POPULAR/THEME SONGS (played with my self produced, studio recorded backing tracks)</h3>
-<ul style="margin: 0 auto; width: fit-content;">
+<ul style="text-align: center; list-style-position: inside;">
     <li>Chan Chan - Buena Vista Social Club</li>
     <li>Fast Car - Tracy Chapman</li>
     <li>Inspiration - Gipsy Kings</li>
@@ -82,7 +82,7 @@ MetaDescription: Explore John H. Clarke's extensive guitar repertoire including 
 </ul>
 
 <h3 style="text-align: center; margin-top: 2em; margin-bottom: 1em;">TRADITIONAL/INTERNATIONAL</h3>
-<ul style="margin: 0 auto; width: fit-content;">
+<ul style="text-align: center; list-style-position: inside;">
     <li>Greensleeves</li>
     <li>Malaguena Salerosa - Mexican Traditional</li>
     <li>La Llorona - Mexican Traditional</li>
@@ -91,4 +91,6 @@ MetaDescription: Explore John H. Clarke's extensive guitar repertoire including 
     <li>Malaguena - Traditional</li>
     <li>Tempestad by Juan Serrano</li>
     <li>Cielio Lindo - Mexican Traditional</li>
+    <li>Ashoken Farewell - Traditional</li>
+    <li>Amazing Grace - Traditional</li>    
 </ul>

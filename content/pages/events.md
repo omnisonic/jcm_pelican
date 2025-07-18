@@ -51,7 +51,7 @@ Available for bookings in San Diego, California
 </ul>
 
 ## View Repertoire {.centered}
-<a href="/repetoire.html">Explore John H. Clarke's extensive repertoire of classical, latin, and contemporary guitar music.</a>
+<a href="/pages/repertoire.html">Explore John H. Clarke's extensive repertoire of classical, latin, and contemporary guitar music.</a>
 
 ## Book Your Event {.centered}
 
