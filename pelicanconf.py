@@ -60,6 +60,7 @@ MENUITEMS = [
     ('Video', '/pages/guitar-performance-videos-by-john-h-clarke.html'),
     ('Notation & Tab', '/pages/guitar-tabs-sheet-music-notation-original-classical-guitar-compositions-by-john-h-clarke.html'),
 
+
 ]
 
 PAGE_EXCLUDES = 'static'
