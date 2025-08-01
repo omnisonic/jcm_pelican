@@ -25,8 +25,8 @@ Browse and download guitar notation and tablature for my original compositions. 
     <div class="grid-item">
         <a href="https://johnclarkemusic.gumroad.com/l/jwuin">
             <picture>
-                <source srcset="/images/notation-sample-images/pier-loop-notation-sample.webp" type="image/webp">
-                <img src="/images/notation-sample-images/pier-loop-notation-sample.JPG" alt="Pier Loop guitar notation sample">
+                <source srcset="/images/notation-sample-images/Pier-loop-notation-sample.webp" type="image/webp">
+                <img src="/images/notation-sample-images/Pier-loop-notation-sample.JPG" alt="Pier Loop guitar notation sample">
             </picture>
         </a>
         <div>Pier Loop</div>
