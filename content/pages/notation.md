@@ -32,6 +32,17 @@ Browse and download guitar notation and tablature for my original compositions. 
         <div>Pier Loop</div>
     </div>
     <div class="grid-item">
+    <a href="https://johnclarkemusic.gumroad.com/l/pier-loop-backing-track">
+        <picture>
+            <source srcset="/images/guitar_notaion_image_backing_track_thumb_square.png" type="image/webp">
+            <img src="/images/guitar_notaion_image_backing_track_thumb_square.png" alt="Pier Loop Backing Track">
+        </picture>
+    </a>
+    <div>Pier Loop (Backing Track)</div>
+    </div>
+
+
+    <div class="grid-item">
         <a href="https://gum.co/aurora-tab">
             <picture>
                 <source srcset="/images/notation-sample-images/aurora-borealis-notation-sample.webp" type="image/webp">
@@ -40,6 +51,19 @@ Browse and download guitar notation and tablature for my original compositions. 
         </a>
         <div>Aurora Borealis</div>
     </div>
+
+    <div class="grid-item">
+        <a href="https://johnclarkemusic.gumroad.com/l/FUfzb">
+            <picture>
+                <source srcset="/images/guitar_notaion_image_backing_track_thumb_square.png" type="image/webp">
+                <img src="/images/guitar_notaion_image_backing_track_thumb_square.png">
+            </picture>
+        </a>
+        <div>Aurora Borealis (Backing Track)</div>
+    </div>
+
+
+
     <div class="grid-item">
         <a href="https://gum.co/tren-tab">
             <picture>
