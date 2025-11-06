@@ -425,7 +425,7 @@ article {
 }
 
 /* GigSalad Widget Styles */
-#gigsalad_quote_widget {
+#gigsalad_quote_widget, #gigsalad-reviews-widget {
     width: 95% !important;
     max-width: 600px !important;
     margin: 20px auto !important;
