@@ -12,7 +12,8 @@ body {
   display: block;
   text-align:left;
   max-width: 1000px;
-  
+  margin-left: auto;
+  margin-right: auto;
 }
 
 :root {
@@ -168,6 +169,25 @@ article {
     margin: 2em auto;
 }
 
+.centered a {
+    display: block !important;
+    text-align: center !important;
+    margin: 0 auto !important;
+    width: fit-content !important;
+}
+
+.list-container {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 3em;
+    margin-bottom: 3em;
+}
+
+.list-container ul,
+.list-container ol {
+    margin-left: 2em;
+}
+
 .hero-text {
     text-align: center;
     font-size: 1.2em;
@@ -265,12 +285,7 @@ article {
   color: white;
 }
 
-/* Contact Form Styles */
-.centered {
-    text-align: center;
-    margin: 2em 0;
-    font-size: 1.5em;
-}
+
 
 #fs-frm {
     width: 90%;
@@ -369,6 +384,8 @@ article {
     list-style-type: disc;
     text-align: left;
     padding-left: 2em;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .services-list li {
@@ -381,6 +398,8 @@ article {
     text-align: center;
     padding: 0;
     margin: 2em auto;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .cta-text {
@@ -569,6 +588,8 @@ article {
     margin: 2em auto;
     max-width: 400px;
     text-align: left;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .lessons-features li {

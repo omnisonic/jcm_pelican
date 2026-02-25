@@ -2,8 +2,8 @@ Title: Contact Guitarist John H. Clarke
 slug: contact-professional-guitarist-john-h-clarke
 Menu_Title: Contact
 order: 8
-Description: Contact John H. Clarke for guitar performances, online music lessons, music production, and event bookings in Santa Fe and San Diego.
-MetaDescription: Contact John H. Clarke for guitar performances, online music lessons, music production, and event bookings in Santa Fe and San Diego.
+Description: Contact John H. Clarke for guitar performances, online music lessons, music production, and event bookings in Santa Fe.
+MetaDescription: Contact John H. Clarke for guitar performances, online music lessons, music production, and event bookings in Santa Fe.
 
 ---
 

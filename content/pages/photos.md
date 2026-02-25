@@ -2,8 +2,8 @@ Title: Photos of John H. Clarke
 slug: photos-guitarist-john-h-clarke
 Menu_Title: Photos
 order: 2
-Description: View John H. Clarke performing classical and contemporary guitar at weddings, festivals, and events in Santa Fe and San Diego.
-MetaDescription: View John H. Clarke performing classical and contemporary guitar at weddings, festivals, and events in Santa Fe and San Diego.
+Description: View John H. Clarke performing classical and contemporary guitar at weddings, festivals, and events in Santa Fe.
+MetaDescription: View John H. Clarke performing classical and contemporary guitar at weddings, festivals, and events in Santa Fe.
 
 ---
 

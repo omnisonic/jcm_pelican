@@ -2,8 +2,8 @@ Title: Guitar Performance Videos
 slug: guitar-performance-videos-by-john-h-clarke
 Menu_Title: Video
 order: 4
-Description: Watch John H. Clarke perform original compositions and classical guitar pieces. Features performances of Pier Loop, Spanish Romance, and original works recorded in San Francisco and San Diego.
-MetaDescription: Watch John H. Clarke perform original compositions and classical guitar pieces. Features performances of Pier Loop, Spanish Romance, and original works recorded in San Francisco and San Diego.
+Description: Watch John H. Clarke perform original compositions and classical guitar pieces. Features performances of Pier Loop, Spanish Romance, and original works recorded in San Francisco.
+MetaDescription: Watch John H. Clarke perform original compositions and classical guitar pieces. Features performances of Pier Loop, Spanish Romance, and original works recorded in San Francisco.
 
 ---
 
@@ -11,6 +11,16 @@ MetaDescription: Watch John H. Clarke perform original compositions and classica
 
 A sample of my guitar performances and compositions. 
 {: .hero-text}
+
+---
+
+### Gymnopedia No 1 {.centered}
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rgO4S3VcetQ?si=TwT5B-Q75w0m10Vj" title="Gymnopedia by Eric Satie.  Performed by John H. Clarke as classical guitar Duet." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+<div class="video-description">
+Gymnopedia by Eric Satie.  Performed by John H. Clarke as classical guitar Duet.</div>
 
 ---
 
@@ -86,12 +96,12 @@ This song gets its name from the fact that I have strange ways of naming songs. 
 
 ---
 
-### No Pretense - Beach Performance in San Diego {.centered}
+### No Pretense - Beach Performance in  {.centered}
 
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T9ZVazcmBd4?si=KPSbtZAbhLJrj93A" title="Live Guitar Performance at San Diego Beach" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T9ZVazcmBd4?si=KPSbtZAbhLJrj93A" title="Live Guitar Performance at  Beach" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <div class="video-description">
-This was a fantastic location for a street performance. Thanks San Diego, California for the opportunity to play on the gorgeous beach! Thanks to the videographer for helping to preserve the memory.
+This was a fantastic location for a street performance. Thanks , California for the opportunity to play on the gorgeous beach! Thanks to the videographer for helping to preserve the memory.
 </div>

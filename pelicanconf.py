@@ -7,7 +7,7 @@ SITEURL = ''
 
 PATH = 'content'
 
-TIMEZONE = 'Europe/Paris'
+TIMEZONE = 'America/Denver'
 
 DEFAULT_LANG = 'en'
 
@@ -42,17 +42,17 @@ DISQUS_SITENAME = 'johnclarkemusic'
 TWITTER_USERNAME= 'johnclarkemusic'
 
 DEFAULT_OG_TITLE = SITENAME
-DEFAULT_OG_DESCRIPTION = 'John H. Clarke - Classical & Contemporary Guitarist in Santa Fe and San Diego'
+DEFAULT_OG_DESCRIPTION = 'John H. Clarke - Classical & Contemporary Guitarist'
 DEFAULT_OG_IMAGE = 'https://johnclarkemusic.com' + '/theme/images/header-2_cropped-thin.jpg'
 DEFAULT_OG_URL = 'https://johnclarkemusic.com'
 DEFAULT_OG_TYPE = 'website'
 
 # Default description for meta tags
-DEFAULT_DESCRIPTION = 'Professional guitarist John H. Clarke specializes in Latin and classical guitar performances, available for events in Santa Fe and San Diego.'
+DEFAULT_DESCRIPTION = 'Professional guitarist John H. Clarke specializes in Latin and classical guitar performances.'
 
 DISPLAY_PAGES_ON_MENU = False
 MENUITEMS = [
-    ('Events', '/pages/live-music-and-entertainment-for-events-in-santa-fe-san-diego.html'),
+    ('Events', '/pages/live-music-and-entertainment-for-events.html'),
     ('Recordings', '/pages/guitar-albums-and-recordings-by-john-h-clarke.html'),
     ('Lessons', '/pages/guitar-lessons-with-john-h-clarke.html'),
     ('Contact', '/pages/contact-professional-guitarist-john-h-clarke.html'),
