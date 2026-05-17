@@ -7,6 +7,9 @@ MetaDescription: Professional guitarist John H. Clarke available for events in S
 
 ---
 
+## Public Performances Calendar {.centered}
+<p class="centered"><a href="https://events.scenethink.com/@john-clarke" target="_blank" rel="noopener">View upcoming public performances by John H. Clarke.</a></p>
+
 ## Professional Guitar Performance for Your Special Occasion {.centered}
 
 Elevating events with classical, latin, and contemporary guitar music
