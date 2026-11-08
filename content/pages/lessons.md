@@ -1,4 +1,4 @@
-Title: Guitar Lessons in Santa Fe | John H. Clarke at Santa Fe Guitar Gallery
+Title: Guitar Lessons in Santa Fe
 slug: guitar-lessons-with-john-h-clarke
 Menu_Title: Lessons
 order: 6
@@ -6,8 +6,11 @@ Description: Guitar lessons in Santa Fe, NM with John H. Clarke at Santa Fe Guit
 MetaDescription: Guitar lessons in Santa Fe, NM with professional guitarist John H. Clarke at Santa Fe Guitar Gallery (328 S. Guadalupe St.). In-person or online via Zoom. Classical, steel string, acoustic, and electric guitar for all skill levels.
 
 ---
-<h2 class="centered">In-person lessons at Santa Fe Guitar Gallery — or live online via Zoom. Structured, patient instruction for all ages and all levels.</h2>
-<p>Professional guitar instruction rooted in classical technique, covering Spanish, contemporary, steel string, acoustic, electric, and more. All skill levels welcome.</p>
+<h2 class="centered">Structured, patient instruction for all ages and backgrounds.</h2>
+<p>Professional guitar instruction rooted in classical technique, covering Spanish, contemporary, steel string, acoustic, electric, and more.</p>
+<p class="text-center">
+    <a href="https://guitarlessons.setmore.com/john" class="btn btn-book btn-lg px-5 py-3 fs-4">Book Now / See Times</a>
+</p>
 
 
 
@@ -30,7 +33,7 @@ MetaDescription: Guitar lessons in Santa Fe, NM with professional guitarist John
     Free parking on Montezuma Ave &nbsp;|&nbsp; 505-207-8977
 </p>
 <p class="text-center">
-    <a href="https://guitarlessons.setmore.com/john" class="btn btn-primary">See Available Times</a>
+    <a href="https://guitarlessons.setmore.com/john" class="btn btn-book">Book Now</a>
     &nbsp;or use the <a href="/pages/contact.html">contact form</a>
 </p>
 
@@ -38,7 +41,7 @@ MetaDescription: Guitar lessons in Santa Fe, NM with professional guitarist John
 <p class="centered"><strong>Single 30-minute lesson - $45 &nbsp;|&nbsp; Four 30-minute weekly lessons - $160</strong></p>
 <p class="centered">Learn from anywhere via webcam. Same structured, personalized instruction — no travel required.</p>
 <p class="text-center">
-    <a href="https://guitarlessons.setmore.com/john" class="btn btn-primary">See Available Times</a>
+    <a href="https://guitarlessons.setmore.com/john" class="btn btn-book">Book Now</a>
     &nbsp;or use the <a href="/pages/contact.html">contact form</a>
 </p>
 
@@ -49,7 +52,7 @@ MetaDescription: Guitar lessons in Santa Fe, NM with professional guitarist John
         <li><strong>Ergonomic Technique</strong>: Proper, pain-free form from day one</li>
         <li><strong>Sight Reading</strong>: Learn to read music strategically with minimal frustration</li>
         <li><strong>Rhythm</strong>: Build a strong foundation in rhythm by learning to feel and count musical time</li>
-        <li><strong>Free Full Access to <a href="https://johnclarkeguitarlessons.com">johnclarkeguitarlessons.com</a></strong>: Sheet music, backing tracks, notation, and more</li>
+        <li><strong>Free Membership to <a href="https://johnclarkeguitarlessons.com">JohnClarkeGuitarLessons.com</a></strong>: All private lesson students get free full access to John's state-of-the-art guitar education platform, including sheet music, backing tracks, notation, and more</li>
     </ul>
 </div>
 
@@ -96,7 +99,7 @@ MetaDescription: Guitar lessons in Santa Fe, NM with professional guitarist John
 <div class="list-container">
     <ul>
         <li><strong>In person:</strong> Visit Santa Fe Guitar Gallery at 328 S. Guadalupe St., Suite H, Santa Fe, NM — or call 505-207-8977</li>
-        <li><strong>Online or in person:</strong> <a href="https://guitarlessons.setmore.com/john">See available times</a> and book instantly through Setmore</li>
+        <li><strong>Online or in person:</strong> <a href="https://guitarlessons.setmore.com/john">Book now</a> instantly through Setmore</li>
         <li><strong>Either way:</strong> Use the <a href="/pages/contact.html">contact form</a> to reach out directly with questions or to arrange a time</li>
     </ul>
 </div>
@@ -104,7 +107,7 @@ MetaDescription: Guitar lessons in Santa Fe, NM with professional guitarist John
 <h3 class="centered">Ready to Start Your Journey?</h3>
 <p>The truth is that learning an instrument takes work and dedication. Private lessons will help keep you on the right path and keep you motivated. Music practice and study is time well spent. I&#39;ve never heard anyone say they regret the time they put into their instrument. Start today.</p>
 
-<p class="text-center"><a href="https://guitarlessons.setmore.com/john" class="btn btn-primary">See Available Times</a></p>
+<p class="text-center"><a href="https://guitarlessons.setmore.com/john" class="btn btn-book">Book Now</a></p>
 
 <script type="application/ld+json">
 {

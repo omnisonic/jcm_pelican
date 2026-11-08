@@ -658,3 +658,20 @@ article {
         max-width: 100%;
     }
 }
+
+/* Booking call-to-action button (warm amber) */
+.btn-book,
+.btn-book:link,
+.btn-book:visited {
+    background-color: #B85C1E;
+    border-color: #B85C1E;
+    color: #fff;
+    text-decoration: none;
+}
+.btn-book:hover,
+.btn-book:focus {
+    background-color: #9A4A15;
+    border-color: #9A4A15;
+    color: #fff;
+    text-decoration: none;
+}
